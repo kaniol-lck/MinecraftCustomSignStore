@@ -1,0 +1,3952 @@
+{
+    "000": {
+        "id": 0,
+        "name": "air",
+        "translation": "空气"
+    },
+    "001": {
+        "id": 1,
+        "name": "stone",
+        "translation": "石头"
+    },
+    "002": {
+        "id": 2,
+        "name": "granite",
+        "translation": "花岗岩"
+    },
+    "003": {
+        "id": 3,
+        "name": "polished_granite",
+        "translation": "磨制花岗岩"
+    },
+    "004": {
+        "id": 4,
+        "name": "diorite",
+        "translation": "闪长岩"
+    },
+    "005": {
+        "id": 5,
+        "name": "polished_diorite",
+        "translation": "磨制闪长岩"
+    },
+    "006": {
+        "id": 6,
+        "name": "andesite",
+        "translation": "安山岩"
+    },
+    "007": {
+        "id": 7,
+        "name": "polished_andesite",
+        "translation": "磨制安山岩"
+    },
+    "008": {
+        "id": 8,
+        "name": "grass_block",
+        "translation": "草方块"
+    },
+    "009": {
+        "id": 9,
+        "name": "dirt",
+        "translation": "泥土"
+    },
+    "010": {
+        "id": 10,
+        "name": "coarse_dirt",
+        "translation": "砂土"
+    },
+    "011": {
+        "id": 11,
+        "name": "podzol",
+        "translation": "灰化土"
+    },
+    "012": {
+        "id": 12,
+        "name": "cobblestone",
+        "translation": "圆石"
+    },
+    "013": {
+        "id": 13,
+        "name": "oak_planks",
+        "translation": "橡木木板"
+    },
+    "014": {
+        "id": 14,
+        "name": "spruce_planks",
+        "translation": "云杉木板"
+    },
+    "015": {
+        "id": 15,
+        "name": "birch_planks",
+        "translation": "白桦木板"
+    },
+    "016": {
+        "id": 16,
+        "name": "jungle_planks",
+        "translation": "丛林木板"
+    },
+    "017": {
+        "id": 17,
+        "name": "acacia_planks",
+        "translation": "金合欢木板"
+    },
+    "018": {
+        "id": 18,
+        "name": "dark_oak_planks",
+        "translation": "深色橡木木板"
+    },
+    "019": {
+        "id": 19,
+        "name": "oak_sapling",
+        "translation": "橡树树苗"
+    },
+    "020": {
+        "id": 20,
+        "name": "spruce_sapling",
+        "translation": "云杉树苗"
+    },
+    "021": {
+        "id": 21,
+        "name": "birch_sapling",
+        "translation": "白桦树苗"
+    },
+    "022": {
+        "id": 22,
+        "name": "jungle_sapling",
+        "translation": "丛林树苗"
+    },
+    "023": {
+        "id": 23,
+        "name": "acacia_sapling",
+        "translation": "金合欢树苗"
+    },
+    "024": {
+        "id": 24,
+        "name": "dark_oak_sapling",
+        "translation": "深色橡树树苗"
+    },
+    "025": {
+        "id": 25,
+        "name": "bedrock",
+        "translation": "基岩"
+    },
+    "026": {
+        "id": 26,
+        "name": "sand",
+        "translation": "沙子"
+    },
+    "027": {
+        "id": 27,
+        "name": "red_sand",
+        "translation": "红沙"
+    },
+    "028": {
+        "id": 28,
+        "name": "gravel",
+        "translation": "沙砾"
+    },
+    "029": {
+        "id": 29,
+        "name": "gold_ore",
+        "translation": "金矿石"
+    },
+    "030": {
+        "id": 30,
+        "name": "iron_ore",
+        "translation": "铁矿石"
+    },
+    "031": {
+        "id": 31,
+        "name": "coal_ore",
+        "translation": "煤矿石"
+    },
+    "032": {
+        "id": 32,
+        "name": "oak_log",
+        "translation": "橡木原木"
+    },
+    "033": {
+        "id": 33,
+        "name": "spruce_log",
+        "translation": "云杉原木"
+    },
+    "034": {
+        "id": 34,
+        "name": "birch_log",
+        "translation": "白桦原木"
+    },
+    "035": {
+        "id": 35,
+        "name": "jungle_log",
+        "translation": "丛林原木"
+    },
+    "036": {
+        "id": 36,
+        "name": "acacia_log",
+        "translation": "金合欢原木"
+    },
+    "037": {
+        "id": 37,
+        "name": "dark_oak_log",
+        "translation": "深色橡木原木"
+    },
+    "038": {
+        "id": 38,
+        "name": "stripped_oak_log",
+        "translation": "去皮橡木原木"
+    },
+    "039": {
+        "id": 39,
+        "name": "stripped_spruce_log",
+        "translation": "去皮云杉原木"
+    },
+    "040": {
+        "id": 40,
+        "name": "stripped_birch_log",
+        "translation": "去皮白桦原木"
+    },
+    "041": {
+        "id": 41,
+        "name": "stripped_jungle_log",
+        "translation": "去皮丛林原木"
+    },
+    "042": {
+        "id": 42,
+        "name": "stripped_acacia_log",
+        "translation": "去皮金合欢原木"
+    },
+    "043": {
+        "id": 43,
+        "name": "stripped_dark_oak_log",
+        "translation": "去皮深色橡木原木"
+    },
+    "044": {
+        "id": 44,
+        "name": "stripped_oak_wood",
+        "translation": "去皮橡木"
+    },
+    "045": {
+        "id": 45,
+        "name": "stripped_spruce_wood",
+        "translation": "去皮云杉木"
+    },
+    "046": {
+        "id": 46,
+        "name": "stripped_birch_wood",
+        "translation": "去皮白桦木"
+    },
+    "047": {
+        "id": 47,
+        "name": "stripped_jungle_wood",
+        "translation": "去皮丛林木"
+    },
+    "048": {
+        "id": 48,
+        "name": "stripped_acacia_wood",
+        "translation": "去皮金合欢木"
+    },
+    "049": {
+        "id": 49,
+        "name": "stripped_dark_oak_wood",
+        "translation": "去皮深色橡木"
+    },
+    "050": {
+        "id": 50,
+        "name": "oak_wood",
+        "translation": "橡木"
+    },
+    "051": {
+        "id": 51,
+        "name": "spruce_wood",
+        "translation": "云杉木"
+    },
+    "052": {
+        "id": 52,
+        "name": "birch_wood",
+        "translation": "白桦木"
+    },
+    "053": {
+        "id": 53,
+        "name": "jungle_wood",
+        "translation": "丛林木"
+    },
+    "054": {
+        "id": 54,
+        "name": "acacia_wood",
+        "translation": "金合欢木"
+    },
+    "055": {
+        "id": 55,
+        "name": "dark_oak_wood",
+        "translation": "深色橡木"
+    },
+    "056": {
+        "id": 56,
+        "name": "oak_leaves",
+        "translation": "橡树树叶"
+    },
+    "057": {
+        "id": 57,
+        "name": "spruce_leaves",
+        "translation": "云杉树叶"
+    },
+    "058": {
+        "id": 58,
+        "name": "birch_leaves",
+        "translation": "白桦树叶"
+    },
+    "059": {
+        "id": 59,
+        "name": "jungle_leaves",
+        "translation": "丛林树叶"
+    },
+    "060": {
+        "id": 60,
+        "name": "acacia_leaves",
+        "translation": "金合欢树叶"
+    },
+    "061": {
+        "id": 61,
+        "name": "dark_oak_leaves",
+        "translation": "深色橡树树叶"
+    },
+    "062": {
+        "id": 62,
+        "name": "sponge",
+        "translation": "海绵"
+    },
+    "063": {
+        "id": 63,
+        "name": "wet_sponge",
+        "translation": "湿海绵"
+    },
+    "064": {
+        "id": 64,
+        "name": "glass",
+        "translation": "玻璃"
+    },
+    "065": {
+        "id": 65,
+        "name": "lapis_ore",
+        "translation": "青金石矿石"
+    },
+    "066": {
+        "id": 66,
+        "name": "lapis_block",
+        "translation": "青金石块"
+    },
+    "067": {
+        "id": 67,
+        "name": "dispenser",
+        "translation": "发射器"
+    },
+    "068": {
+        "id": 68,
+        "name": "sandstone",
+        "translation": "砂岩"
+    },
+    "069": {
+        "id": 69,
+        "name": "chiseled_sandstone",
+        "translation": "錾制砂岩"
+    },
+    "070": {
+        "id": 70,
+        "name": "cut_sandstone",
+        "translation": "切制砂岩"
+    },
+    "071": {
+        "id": 71,
+        "name": "note_block",
+        "translation": "音符盒"
+    },
+    "072": {
+        "id": 72,
+        "name": "powered_rail",
+        "translation": "充能铁轨"
+    },
+    "073": {
+        "id": 73,
+        "name": "detector_rail",
+        "translation": "探测铁轨"
+    },
+    "074": {
+        "id": 74,
+        "name": "sticky_piston",
+        "translation": "粘性活塞"
+    },
+    "075": {
+        "id": 75,
+        "name": "cobweb",
+        "translation": "蜘蛛网"
+    },
+    "076": {
+        "id": 76,
+        "name": "grass",
+        "translation": "草"
+    },
+    "077": {
+        "id": 77,
+        "name": "fern",
+        "translation": "蕨"
+    },
+    "078": {
+        "id": 78,
+        "name": "dead_bush",
+        "translation": "枯死的灌木"
+    },
+    "079": {
+        "id": 79,
+        "name": "seagrass",
+        "translation": "海草"
+    },
+    "080": {
+        "id": 80,
+        "name": "sea_pickle",
+        "translation": "海泡菜"
+    },
+    "081": {
+        "id": 81,
+        "name": "piston",
+        "translation": "活塞"
+    },
+    "082": {
+        "id": 82,
+        "name": "white_wool",
+        "translation": "白色羊毛"
+    },
+    "083": {
+        "id": 83,
+        "name": "orange_wool",
+        "translation": "橙色羊毛"
+    },
+    "084": {
+        "id": 84,
+        "name": "magenta_wool",
+        "translation": "品红色羊毛"
+    },
+    "085": {
+        "id": 85,
+        "name": "light_blue_wool",
+        "translation": "淡蓝色羊毛"
+    },
+    "086": {
+        "id": 86,
+        "name": "yellow_wool",
+        "translation": "黄色羊毛"
+    },
+    "087": {
+        "id": 87,
+        "name": "lime_wool",
+        "translation": "黄绿色羊毛"
+    },
+    "088": {
+        "id": 88,
+        "name": "pink_wool",
+        "translation": "粉红色羊毛"
+    },
+    "089": {
+        "id": 89,
+        "name": "gray_wool",
+        "translation": "灰色羊毛"
+    },
+    "090": {
+        "id": 90,
+        "name": "light_gray_wool",
+        "translation": "淡灰色羊毛"
+    },
+    "091": {
+        "id": 91,
+        "name": "cyan_wool",
+        "translation": "青色羊毛"
+    },
+    "092": {
+        "id": 92,
+        "name": "purple_wool",
+        "translation": "紫色羊毛"
+    },
+    "093": {
+        "id": 93,
+        "name": "blue_wool",
+        "translation": "蓝色羊毛"
+    },
+    "094": {
+        "id": 94,
+        "name": "brown_wool",
+        "translation": "棕色羊毛"
+    },
+    "095": {
+        "id": 95,
+        "name": "green_wool",
+        "translation": "绿色羊毛"
+    },
+    "096": {
+        "id": 96,
+        "name": "red_wool",
+        "translation": "红色羊毛"
+    },
+    "097": {
+        "id": 97,
+        "name": "black_wool",
+        "translation": "黑色羊毛"
+    },
+    "098": {
+        "id": 98,
+        "name": "dandelion",
+        "translation": "蒲公英"
+    },
+    "099": {
+        "id": 99,
+        "name": "poppy",
+        "translation": "虞美人"
+    },
+    "100": {
+        "id": 100,
+        "name": "blue_orchid",
+        "translation": "兰花"
+    },
+    "101": {
+        "id": 101,
+        "name": "allium",
+        "translation": "绒球葱"
+    },
+    "102": {
+        "id": 102,
+        "name": "azure_bluet",
+        "translation": "茜草花"
+    },
+    "103": {
+        "id": 103,
+        "name": "red_tulip",
+        "translation": "红色郁金香"
+    },
+    "104": {
+        "id": 104,
+        "name": "orange_tulip",
+        "translation": "橙色郁金香"
+    },
+    "105": {
+        "id": 105,
+        "name": "white_tulip",
+        "translation": "白色郁金香"
+    },
+    "106": {
+        "id": 106,
+        "name": "pink_tulip",
+        "translation": "粉红色郁金香"
+    },
+    "107": {
+        "id": 107,
+        "name": "oxeye_daisy",
+        "translation": "滨菊"
+    },
+    "108": {
+        "id": 108,
+        "name": "brown_mushroom",
+        "translation": "棕色蘑菇"
+    },
+    "109": {
+        "id": 109,
+        "name": "red_mushroom",
+        "translation": "红色蘑菇"
+    },
+    "110": {
+        "id": 110,
+        "name": "gold_block",
+        "translation": "金块"
+    },
+    "111": {
+        "id": 111,
+        "name": "iron_block",
+        "translation": "铁块"
+    },
+    "112": {
+        "id": 112,
+        "name": "oak_slab",
+        "translation": "橡木台阶"
+    },
+    "113": {
+        "id": 113,
+        "name": "spruce_slab",
+        "translation": "云杉木台阶"
+    },
+    "114": {
+        "id": 114,
+        "name": "birch_slab",
+        "translation": "白桦木台阶"
+    },
+    "115": {
+        "id": 115,
+        "name": "jungle_slab",
+        "translation": "丛林木台阶"
+    },
+    "116": {
+        "id": 116,
+        "name": "acacia_slab",
+        "translation": "金合欢木台阶"
+    },
+    "117": {
+        "id": 117,
+        "name": "dark_oak_slab",
+        "translation": "深色橡木台阶"
+    },
+    "118": {
+        "id": 118,
+        "name": "stone_slab",
+        "translation": "石台阶"
+    },
+    "119": {
+        "id": 119,
+        "name": "sandstone_slab",
+        "translation": "砂岩台阶"
+    },
+    "120": {
+        "id": 120,
+        "name": "petrified_oak_slab",
+        "translation": "石化橡木台阶"
+    },
+    "121": {
+        "id": 121,
+        "name": "cobblestone_slab",
+        "translation": "圆石台阶"
+    },
+    "122": {
+        "id": 122,
+        "name": "brick_slab",
+        "translation": "砖台阶"
+    },
+    "123": {
+        "id": 123,
+        "name": "stone_brick_slab",
+        "translation": "石砖台阶"
+    },
+    "124": {
+        "id": 124,
+        "name": "nether_brick_slab",
+        "translation": "地狱砖台阶"
+    },
+    "125": {
+        "id": 125,
+        "name": "quartz_slab",
+        "translation": "石英台阶"
+    },
+    "126": {
+        "id": 126,
+        "name": "red_sandstone_slab",
+        "translation": "红砂岩台阶"
+    },
+    "127": {
+        "id": 127,
+        "name": "purpur_slab",
+        "translation": "紫珀台阶"
+    },
+    "128": {
+        "id": 128,
+        "name": "prismarine_slab",
+        "translation": "海晶石台阶"
+    },
+    "129": {
+        "id": 129,
+        "name": "prismarine_brick_slab",
+        "translation": "海晶石砖台阶"
+    },
+    "130": {
+        "id": 130,
+        "name": "dark_prismarine_slab",
+        "translation": "暗海晶石台阶"
+    },
+    "131": {
+        "id": 131,
+        "name": "smooth_quartz",
+        "translation": "平滑石英"
+    },
+    "132": {
+        "id": 132,
+        "name": "smooth_red_sandstone",
+        "translation": "平滑红砂岩"
+    },
+    "133": {
+        "id": 133,
+        "name": "smooth_sandstone",
+        "translation": "平滑砂岩"
+    },
+    "134": {
+        "id": 134,
+        "name": "smooth_stone",
+        "translation": "平滑石头"
+    },
+    "135": {
+        "id": 135,
+        "name": "bricks",
+        "translation": "砖块"
+    },
+    "136": {
+        "id": 136,
+        "name": "tnt",
+        "translation": "TNT"
+    },
+    "137": {
+        "id": 137,
+        "name": "bookshelf",
+        "translation": "书架"
+    },
+    "138": {
+        "id": 138,
+        "name": "mossy_cobblestone",
+        "translation": "苔石"
+    },
+    "139": {
+        "id": 139,
+        "name": "obsidian",
+        "translation": "黑曜石"
+    },
+    "140": {
+        "id": 140,
+        "name": "torch",
+        "translation": "火把"
+    },
+    "141": {
+        "id": 141,
+        "name": "end_rod",
+        "translation": "末地烛"
+    },
+    "142": {
+        "id": 142,
+        "name": "chorus_plant",
+        "translation": "紫颂植物"
+    },
+    "143": {
+        "id": 143,
+        "name": "chorus_flower",
+        "translation": "紫颂花"
+    },
+    "144": {
+        "id": 144,
+        "name": "purpur_block",
+        "translation": "紫珀块"
+    },
+    "145": {
+        "id": 145,
+        "name": "purpur_pillar",
+        "translation": "竖纹紫珀块"
+    },
+    "146": {
+        "id": 146,
+        "name": "purpur_stairs",
+        "translation": "紫珀楼梯"
+    },
+    "147": {
+        "id": 147,
+        "name": "spawner",
+        "translation": "刷怪箱"
+    },
+    "148": {
+        "id": 148,
+        "name": "oak_stairs",
+        "translation": "橡木楼梯"
+    },
+    "149": {
+        "id": 149,
+        "name": "chest",
+        "translation": "箱子"
+    },
+    "150": {
+        "id": 150,
+        "name": "diamond_ore",
+        "translation": "钻石矿石"
+    },
+    "151": {
+        "id": 151,
+        "name": "diamond_block",
+        "translation": "钻石块"
+    },
+    "152": {
+        "id": 152,
+        "name": "crafting_table",
+        "translation": "工作台"
+    },
+    "153": {
+        "id": 153,
+        "name": "farmland",
+        "translation": "耕地"
+    },
+    "154": {
+        "id": 154,
+        "name": "furnace",
+        "translation": "熔炉"
+    },
+    "155": {
+        "id": 155,
+        "name": "ladder",
+        "translation": "梯子"
+    },
+    "156": {
+        "id": 156,
+        "name": "rail",
+        "translation": "铁轨"
+    },
+    "157": {
+        "id": 157,
+        "name": "cobblestone_stairs",
+        "translation": "圆石楼梯"
+    },
+    "158": {
+        "id": 158,
+        "name": "lever",
+        "translation": "拉杆"
+    },
+    "159": {
+        "id": 159,
+        "name": "stone_pressure_plate",
+        "translation": "石质压力板"
+    },
+    "160": {
+        "id": 160,
+        "name": "oak_pressure_plate",
+        "translation": "橡木压力板"
+    },
+    "161": {
+        "id": 161,
+        "name": "spruce_pressure_plate",
+        "translation": "云杉木压力板"
+    },
+    "162": {
+        "id": 162,
+        "name": "birch_pressure_plate",
+        "translation": "白桦木压力板"
+    },
+    "163": {
+        "id": 163,
+        "name": "jungle_pressure_plate",
+        "translation": "丛林木压力板"
+    },
+    "164": {
+        "id": 164,
+        "name": "acacia_pressure_plate",
+        "translation": "金合欢木压力板"
+    },
+    "165": {
+        "id": 165,
+        "name": "dark_oak_pressure_plate",
+        "translation": "深色橡木压力板"
+    },
+    "166": {
+        "id": 166,
+        "name": "redstone_ore",
+        "translation": "红石矿石"
+    },
+    "167": {
+        "id": 167,
+        "name": "redstone_torch",
+        "translation": "红石火把"
+    },
+    "168": {
+        "id": 168,
+        "name": "stone_button",
+        "translation": "石头按钮"
+    },
+    "169": {
+        "id": 169,
+        "name": "snow",
+        "translation": "雪"
+    },
+    "170": {
+        "id": 170,
+        "name": "ice",
+        "translation": "冰"
+    },
+    "171": {
+        "id": 171,
+        "name": "snow_block",
+        "translation": "雪块"
+    },
+    "172": {
+        "id": 172,
+        "name": "cactus",
+        "translation": "仙人掌"
+    },
+    "173": {
+        "id": 173,
+        "name": "clay",
+        "translation": "黏土"
+    },
+    "174": {
+        "id": 174,
+        "name": "jukebox",
+        "translation": "唱片机"
+    },
+    "175": {
+        "id": 175,
+        "name": "oak_fence",
+        "translation": "橡木栅栏"
+    },
+    "176": {
+        "id": 176,
+        "name": "spruce_fence",
+        "translation": "云杉木栅栏"
+    },
+    "177": {
+        "id": 177,
+        "name": "birch_fence",
+        "translation": "白桦木栅栏"
+    },
+    "178": {
+        "id": 178,
+        "name": "jungle_fence",
+        "translation": "丛林木栅栏"
+    },
+    "179": {
+        "id": 179,
+        "name": "acacia_fence",
+        "translation": "金合欢栅栏"
+    },
+    "180": {
+        "id": 180,
+        "name": "dark_oak_fence",
+        "translation": "深色橡木栅栏"
+    },
+    "181": {
+        "id": 181,
+        "name": "pumpkin",
+        "translation": "南瓜"
+    },
+    "182": {
+        "id": 182,
+        "name": "carved_pumpkin",
+        "translation": "雕刻过的南瓜"
+    },
+    "183": {
+        "id": 183,
+        "name": "netherrack",
+        "translation": "地狱岩"
+    },
+    "184": {
+        "id": 184,
+        "name": "soul_sand",
+        "translation": "灵魂沙"
+    },
+    "185": {
+        "id": 185,
+        "name": "glowstone",
+        "translation": "荧石"
+    },
+    "186": {
+        "id": 186,
+        "name": "jack_o_lantern",
+        "translation": "南瓜灯"
+    },
+    "187": {
+        "id": 187,
+        "name": "oak_trapdoor",
+        "translation": "橡木活板门"
+    },
+    "188": {
+        "id": 188,
+        "name": "spruce_trapdoor",
+        "translation": "云杉木活板门"
+    },
+    "189": {
+        "id": 189,
+        "name": "birch_trapdoor",
+        "translation": "白桦木活板门"
+    },
+    "190": {
+        "id": 190,
+        "name": "jungle_trapdoor",
+        "translation": "丛林木活板门"
+    },
+    "191": {
+        "id": 191,
+        "name": "acacia_trapdoor",
+        "translation": "金合欢活板门"
+    },
+    "192": {
+        "id": 192,
+        "name": "dark_oak_trapdoor",
+        "translation": "深色橡木活板门"
+    },
+    "193": {
+        "id": 193,
+        "name": "infested_stone",
+        "translation": "被虫蚀的石头"
+    },
+    "194": {
+        "id": 194,
+        "name": "infested_cobblestone",
+        "translation": "被虫蚀的圆石"
+    },
+    "195": {
+        "id": 195,
+        "name": "infested_stone_bricks",
+        "translation": "被虫蚀的石砖"
+    },
+    "196": {
+        "id": 196,
+        "name": "infested_mossy_stone_bricks",
+        "translation": "被虫蚀的苔石砖"
+    },
+    "197": {
+        "id": 197,
+        "name": "infested_cracked_stone_bricks",
+        "translation": "被虫蚀的裂石砖"
+    },
+    "198": {
+        "id": 198,
+        "name": "infested_chiseled_stone_bricks",
+        "translation": "被虫蚀的錾制石砖"
+    },
+    "199": {
+        "id": 199,
+        "name": "stone_bricks",
+        "translation": "石砖"
+    },
+    "200": {
+        "id": 200,
+        "name": "mossy_stone_bricks",
+        "translation": "苔石砖"
+    },
+    "201": {
+        "id": 201,
+        "name": "cracked_stone_bricks",
+        "translation": "裂石砖"
+    },
+    "202": {
+        "id": 202,
+        "name": "chiseled_stone_bricks",
+        "translation": "錾制石砖"
+    },
+    "203": {
+        "id": 203,
+        "name": "brown_mushroom_block",
+        "translation": "棕色蘑菇方块"
+    },
+    "204": {
+        "id": 204,
+        "name": "red_mushroom_block",
+        "translation": "红色蘑菇方块"
+    },
+    "205": {
+        "id": 205,
+        "name": "mushroom_stem",
+        "translation": "蘑菇柄"
+    },
+    "206": {
+        "id": 206,
+        "name": "iron_bars",
+        "translation": "铁栏杆"
+    },
+    "207": {
+        "id": 207,
+        "name": "glass_pane",
+        "translation": "玻璃板"
+    },
+    "208": {
+        "id": 208,
+        "name": "melon",
+        "translation": "西瓜"
+    },
+    "209": {
+        "id": 209,
+        "name": "vine",
+        "translation": "藤蔓"
+    },
+    "210": {
+        "id": 210,
+        "name": "oak_fence_gate",
+        "translation": "橡木栅栏门"
+    },
+    "211": {
+        "id": 211,
+        "name": "spruce_fence_gate",
+        "translation": "云杉木栅栏门"
+    },
+    "212": {
+        "id": 212,
+        "name": "birch_fence_gate",
+        "translation": "白桦木栅栏门"
+    },
+    "213": {
+        "id": 213,
+        "name": "jungle_fence_gate",
+        "translation": "丛林木栅栏门"
+    },
+    "214": {
+        "id": 214,
+        "name": "acacia_fence_gate",
+        "translation": "金合欢栅栏门"
+    },
+    "215": {
+        "id": 215,
+        "name": "dark_oak_fence_gate",
+        "translation": "深色橡木栅栏门"
+    },
+    "216": {
+        "id": 216,
+        "name": "brick_stairs",
+        "translation": "砖楼梯"
+    },
+    "217": {
+        "id": 217,
+        "name": "stone_brick_stairs",
+        "translation": "石砖楼梯"
+    },
+    "218": {
+        "id": 218,
+        "name": "mycelium",
+        "translation": "菌丝"
+    },
+    "219": {
+        "id": 219,
+        "name": "lily_pad",
+        "translation": "睡莲"
+    },
+    "220": {
+        "id": 220,
+        "name": "nether_bricks",
+        "translation": "地狱砖块"
+    },
+    "221": {
+        "id": 221,
+        "name": "nether_brick_fence",
+        "translation": "地狱砖栅栏"
+    },
+    "222": {
+        "id": 222,
+        "name": "nether_brick_stairs",
+        "translation": "地狱砖楼梯"
+    },
+    "223": {
+        "id": 223,
+        "name": "enchanting_table",
+        "translation": "附魔台"
+    },
+    "224": {
+        "id": 224,
+        "name": "end_portal_frame",
+        "translation": "末地传送门框架"
+    },
+    "225": {
+        "id": 225,
+        "name": "end_stone",
+        "translation": "末地石"
+    },
+    "226": {
+        "id": 226,
+        "name": "end_stone_bricks",
+        "translation": "末地石砖"
+    },
+    "227": {
+        "id": 227,
+        "name": "dragon_egg",
+        "translation": "龙蛋"
+    },
+    "228": {
+        "id": 228,
+        "name": "redstone_lamp",
+        "translation": "红石灯"
+    },
+    "229": {
+        "id": 229,
+        "name": "sandstone_stairs",
+        "translation": "砂岩楼梯"
+    },
+    "230": {
+        "id": 230,
+        "name": "emerald_ore",
+        "translation": "绿宝石矿石"
+    },
+    "231": {
+        "id": 231,
+        "name": "ender_chest",
+        "translation": "末影箱"
+    },
+    "232": {
+        "id": 232,
+        "name": "tripwire_hook",
+        "translation": "绊线钩"
+    },
+    "233": {
+        "id": 233,
+        "name": "emerald_block",
+        "translation": "绿宝石块"
+    },
+    "234": {
+        "id": 234,
+        "name": "spruce_stairs",
+        "translation": "云杉木楼梯"
+    },
+    "235": {
+        "id": 235,
+        "name": "birch_stairs",
+        "translation": "白桦木楼梯"
+    },
+    "236": {
+        "id": 236,
+        "name": "jungle_stairs",
+        "translation": "丛林木楼梯"
+    },
+    "237": {
+        "id": 237,
+        "name": "command_block",
+        "translation": "命令方块"
+    },
+    "238": {
+        "id": 238,
+        "name": "beacon",
+        "translation": "信标"
+    },
+    "239": {
+        "id": 239,
+        "name": "cobblestone_wall",
+        "translation": "圆石墙"
+    },
+    "240": {
+        "id": 240,
+        "name": "mossy_cobblestone_wall",
+        "translation": "苔石墙"
+    },
+    "241": {
+        "id": 241,
+        "name": "oak_button",
+        "translation": "橡木按钮"
+    },
+    "242": {
+        "id": 242,
+        "name": "spruce_button",
+        "translation": "云杉木按钮"
+    },
+    "243": {
+        "id": 243,
+        "name": "birch_button",
+        "translation": "白桦木按钮"
+    },
+    "244": {
+        "id": 244,
+        "name": "jungle_button",
+        "translation": "丛林木按钮"
+    },
+    "245": {
+        "id": 245,
+        "name": "acacia_button",
+        "translation": "金合欢木按钮"
+    },
+    "246": {
+        "id": 246,
+        "name": "dark_oak_button",
+        "translation": "深色橡木按钮"
+    },
+    "247": {
+        "id": 247,
+        "name": "anvil",
+        "translation": "铁砧"
+    },
+    "248": {
+        "id": 248,
+        "name": "chipped_anvil",
+        "translation": "开裂的铁砧"
+    },
+    "249": {
+        "id": 249,
+        "name": "damaged_anvil",
+        "translation": "损坏的铁砧"
+    },
+    "250": {
+        "id": 250,
+        "name": "trapped_chest",
+        "translation": "陷阱箱"
+    },
+    "251": {
+        "id": 251,
+        "name": "light_weighted_pressure_plate",
+        "translation": "轻质测重压力板"
+    },
+    "252": {
+        "id": 252,
+        "name": "heavy_weighted_pressure_plate",
+        "translation": "重质测重压力板"
+    },
+    "253": {
+        "id": 253,
+        "name": "daylight_detector",
+        "translation": "阳光探测器"
+    },
+    "254": {
+        "id": 254,
+        "name": "redstone_block",
+        "translation": "红石块"
+    },
+    "255": {
+        "id": 255,
+        "name": "nether_quartz_ore",
+        "translation": "下界石英矿石"
+    },
+    "256": {
+        "id": 256,
+        "name": "hopper",
+        "translation": "漏斗"
+    },
+    "257": {
+        "id": 257,
+        "name": "chiseled_quartz_block",
+        "translation": "錾制石英块"
+    },
+    "258": {
+        "id": 258,
+        "name": "quartz_block",
+        "translation": "石英块"
+    },
+    "259": {
+        "id": 259,
+        "name": "quartz_pillar",
+        "translation": "竖纹石英块"
+    },
+    "260": {
+        "id": 260,
+        "name": "quartz_stairs",
+        "translation": "石英楼梯"
+    },
+    "261": {
+        "id": 261,
+        "name": "activator_rail",
+        "translation": "激活铁轨"
+    },
+    "262": {
+        "id": 262,
+        "name": "dropper",
+        "translation": "投掷器"
+    },
+    "263": {
+        "id": 263,
+        "name": "white_terracotta",
+        "translation": "白色陶瓦"
+    },
+    "264": {
+        "id": 264,
+        "name": "orange_terracotta",
+        "translation": "橙色陶瓦"
+    },
+    "265": {
+        "id": 265,
+        "name": "magenta_terracotta",
+        "translation": "品红色陶瓦"
+    },
+    "266": {
+        "id": 266,
+        "name": "light_blue_terracotta",
+        "translation": "淡蓝色陶瓦"
+    },
+    "267": {
+        "id": 267,
+        "name": "yellow_terracotta",
+        "translation": "黄色陶瓦"
+    },
+    "268": {
+        "id": 268,
+        "name": "lime_terracotta",
+        "translation": "黄绿色陶瓦"
+    },
+    "269": {
+        "id": 269,
+        "name": "pink_terracotta",
+        "translation": "粉红色陶瓦"
+    },
+    "270": {
+        "id": 270,
+        "name": "gray_terracotta",
+        "translation": "灰色陶瓦"
+    },
+    "271": {
+        "id": 271,
+        "name": "light_gray_terracotta",
+        "translation": "淡灰色陶瓦"
+    },
+    "272": {
+        "id": 272,
+        "name": "cyan_terracotta",
+        "translation": "青色陶瓦"
+    },
+    "273": {
+        "id": 273,
+        "name": "purple_terracotta",
+        "translation": "紫色陶瓦"
+    },
+    "274": {
+        "id": 274,
+        "name": "blue_terracotta",
+        "translation": "蓝色陶瓦"
+    },
+    "275": {
+        "id": 275,
+        "name": "brown_terracotta",
+        "translation": "棕色陶瓦"
+    },
+    "276": {
+        "id": 276,
+        "name": "green_terracotta",
+        "translation": "绿色陶瓦"
+    },
+    "277": {
+        "id": 277,
+        "name": "red_terracotta",
+        "translation": "红色陶瓦"
+    },
+    "278": {
+        "id": 278,
+        "name": "black_terracotta",
+        "translation": "黑色陶瓦"
+    },
+    "279": {
+        "id": 279,
+        "name": "barrier",
+        "translation": "旗帜"
+    },
+    "280": {
+        "id": 280,
+        "name": "iron_trapdoor",
+        "translation": "铁活板门"
+    },
+    "281": {
+        "id": 281,
+        "name": "hay_block",
+        "translation": "干草块"
+    },
+    "282": {
+        "id": 282,
+        "name": "white_carpet",
+        "translation": "白色地毯"
+    },
+    "283": {
+        "id": 283,
+        "name": "orange_carpet",
+        "translation": "橙色地毯"
+    },
+    "284": {
+        "id": 284,
+        "name": "magenta_carpet",
+        "translation": "品红色地毯"
+    },
+    "285": {
+        "id": 285,
+        "name": "light_blue_carpet",
+        "translation": "淡蓝色地毯"
+    },
+    "286": {
+        "id": 286,
+        "name": "yellow_carpet",
+        "translation": "黄色地毯"
+    },
+    "287": {
+        "id": 287,
+        "name": "lime_carpet",
+        "translation": "黄绿色地毯"
+    },
+    "288": {
+        "id": 288,
+        "name": "pink_carpet",
+        "translation": "粉红色地毯"
+    },
+    "289": {
+        "id": 289,
+        "name": "gray_carpet",
+        "translation": "灰色地毯"
+    },
+    "290": {
+        "id": 290,
+        "name": "light_gray_carpet",
+        "translation": "淡灰色地毯"
+    },
+    "291": {
+        "id": 291,
+        "name": "cyan_carpet",
+        "translation": "青色地毯"
+    },
+    "292": {
+        "id": 292,
+        "name": "purple_carpet",
+        "translation": "紫色地毯"
+    },
+    "293": {
+        "id": 293,
+        "name": "blue_carpet",
+        "translation": "蓝色地毯"
+    },
+    "294": {
+        "id": 294,
+        "name": "brown_carpet",
+        "translation": "棕色地毯"
+    },
+    "295": {
+        "id": 295,
+        "name": "green_carpet",
+        "translation": "绿色地毯"
+    },
+    "296": {
+        "id": 296,
+        "name": "red_carpet",
+        "translation": "红色地毯"
+    },
+    "297": {
+        "id": 297,
+        "name": "black_carpet",
+        "translation": "黑色地毯"
+    },
+    "298": {
+        "id": 298,
+        "name": "terracotta",
+        "translation": "陶瓦"
+    },
+    "299": {
+        "id": 299,
+        "name": "coal_block",
+        "translation": "煤炭块"
+    },
+    "300": {
+        "id": 300,
+        "name": "packed_ice",
+        "translation": "浮冰"
+    },
+    "301": {
+        "id": 301,
+        "name": "acacia_stairs",
+        "translation": "金合欢木楼梯"
+    },
+    "302": {
+        "id": 302,
+        "name": "dark_oak_stairs",
+        "translation": "深色橡木楼梯"
+    },
+    "303": {
+        "id": 303,
+        "name": "slime_block",
+        "translation": "粘液块"
+    },
+    "304": {
+        "id": 304,
+        "name": "grass_path",
+        "translation": "草径"
+    },
+    "305": {
+        "id": 305,
+        "name": "sunflower",
+        "translation": "向日葵"
+    },
+    "306": {
+        "id": 306,
+        "name": "lilac",
+        "translation": "丁香"
+    },
+    "307": {
+        "id": 307,
+        "name": "rose_bush",
+        "translation": "玫瑰丛"
+    },
+    "308": {
+        "id": 308,
+        "name": "peony",
+        "translation": "牡丹"
+    },
+    "309": {
+        "id": 309,
+        "name": "tall_grass",
+        "translation": "高草丛"
+    },
+    "310": {
+        "id": 310,
+        "name": "large_fern",
+        "translation": "大型蕨"
+    },
+    "311": {
+        "id": 311,
+        "name": "white_stained_glass",
+        "translation": "白色染色玻璃"
+    },
+    "312": {
+        "id": 312,
+        "name": "orange_stained_glass",
+        "translation": "橙色染色玻璃"
+    },
+    "313": {
+        "id": 313,
+        "name": "magenta_stained_glass",
+        "translation": "品红色染色玻璃"
+    },
+    "314": {
+        "id": 314,
+        "name": "light_blue_stained_glass",
+        "translation": "淡蓝色染色玻璃"
+    },
+    "315": {
+        "id": 315,
+        "name": "yellow_stained_glass",
+        "translation": "黄色染色玻璃"
+    },
+    "316": {
+        "id": 316,
+        "name": "lime_stained_glass",
+        "translation": "黄绿色染色玻璃"
+    },
+    "317": {
+        "id": 317,
+        "name": "pink_stained_glass",
+        "translation": "粉红色染色玻璃"
+    },
+    "318": {
+        "id": 318,
+        "name": "gray_stained_glass",
+        "translation": "灰色染色玻璃"
+    },
+    "319": {
+        "id": 319,
+        "name": "light_gray_stained_glass",
+        "translation": "淡灰色染色玻璃"
+    },
+    "320": {
+        "id": 320,
+        "name": "cyan_stained_glass",
+        "translation": "青色染色玻璃"
+    },
+    "321": {
+        "id": 321,
+        "name": "purple_stained_glass",
+        "translation": "紫色染色玻璃"
+    },
+    "322": {
+        "id": 322,
+        "name": "blue_stained_glass",
+        "translation": "蓝色染色玻璃"
+    },
+    "323": {
+        "id": 323,
+        "name": "brown_stained_glass",
+        "translation": "棕色染色玻璃"
+    },
+    "324": {
+        "id": 324,
+        "name": "green_stained_glass",
+        "translation": "绿色染色玻璃"
+    },
+    "325": {
+        "id": 325,
+        "name": "red_stained_glass",
+        "translation": "红色染色玻璃"
+    },
+    "326": {
+        "id": 326,
+        "name": "black_stained_glass",
+        "translation": "黑色染色玻璃"
+    },
+    "327": {
+        "id": 327,
+        "name": "white_stained_glass_pane",
+        "translation": "白色染色玻璃板"
+    },
+    "328": {
+        "id": 328,
+        "name": "orange_stained_glass_pane",
+        "translation": "橙色染色玻璃板"
+    },
+    "329": {
+        "id": 329,
+        "name": "magenta_stained_glass_pane",
+        "translation": "品红色染色玻璃板"
+    },
+    "330": {
+        "id": 330,
+        "name": "light_blue_stained_glass_pane",
+        "translation": "淡蓝色染色玻璃板"
+    },
+    "331": {
+        "id": 331,
+        "name": "yellow_stained_glass_pane",
+        "translation": "黄色染色玻璃板"
+    },
+    "332": {
+        "id": 332,
+        "name": "lime_stained_glass_pane",
+        "translation": "黄绿色染色玻璃板"
+    },
+    "333": {
+        "id": 333,
+        "name": "pink_stained_glass_pane",
+        "translation": "粉红色染色玻璃板"
+    },
+    "334": {
+        "id": 334,
+        "name": "gray_stained_glass_pane",
+        "translation": "灰色染色玻璃板"
+    },
+    "335": {
+        "id": 335,
+        "name": "light_gray_stained_glass_pane",
+        "translation": "淡灰色染色玻璃板"
+    },
+    "336": {
+        "id": 336,
+        "name": "cyan_stained_glass_pane",
+        "translation": "青色染色玻璃板"
+    },
+    "337": {
+        "id": 337,
+        "name": "purple_stained_glass_pane",
+        "translation": "紫色染色玻璃板"
+    },
+    "338": {
+        "id": 338,
+        "name": "blue_stained_glass_pane",
+        "translation": "蓝色染色玻璃板"
+    },
+    "339": {
+        "id": 339,
+        "name": "brown_stained_glass_pane",
+        "translation": "棕色染色玻璃板"
+    },
+    "340": {
+        "id": 340,
+        "name": "green_stained_glass_pane",
+        "translation": "绿色染色玻璃板"
+    },
+    "341": {
+        "id": 341,
+        "name": "red_stained_glass_pane",
+        "translation": "红色染色玻璃板"
+    },
+    "342": {
+        "id": 342,
+        "name": "black_stained_glass_pane",
+        "translation": "黑色染色玻璃板"
+    },
+    "343": {
+        "id": 343,
+        "name": "prismarine",
+        "translation": "海晶石"
+    },
+    "344": {
+        "id": 344,
+        "name": "prismarine_bricks",
+        "translation": "海晶石砖"
+    },
+    "345": {
+        "id": 345,
+        "name": "dark_prismarine",
+        "translation": "暗海晶石"
+    },
+    "346": {
+        "id": 346,
+        "name": "prismarine_stairs",
+        "translation": "海晶石楼梯"
+    },
+    "347": {
+        "id": 347,
+        "name": "prismarine_brick_stairs",
+        "translation": "海晶石砖楼梯"
+    },
+    "348": {
+        "id": 348,
+        "name": "dark_prismarine_stairs",
+        "translation": "暗海晶石楼梯"
+    },
+    "349": {
+        "id": 349,
+        "name": "sea_lantern",
+        "translation": "海晶灯"
+    },
+    "350": {
+        "id": 350,
+        "name": "red_sandstone",
+        "translation": "红砂岩"
+    },
+    "351": {
+        "id": 351,
+        "name": "chiseled_red_sandstone",
+        "translation": "錾制红砂岩"
+    },
+    "352": {
+        "id": 352,
+        "name": "cut_red_sandstone",
+        "translation": "切制红砂岩"
+    },
+    "353": {
+        "id": 353,
+        "name": "red_sandstone_stairs",
+        "translation": "红砂岩楼梯"
+    },
+    "354": {
+        "id": 354,
+        "name": "repeating_command_block",
+        "translation": "循环型命令方块"
+    },
+    "355": {
+        "id": 355,
+        "name": "chain_command_block",
+        "translation": "连锁型命令方块"
+    },
+    "356": {
+        "id": 356,
+        "name": "magma_block",
+        "translation": "岩浆块"
+    },
+    "357": {
+        "id": 357,
+        "name": "nether_wart_block",
+        "translation": "地狱疣块"
+    },
+    "358": {
+        "id": 358,
+        "name": "red_nether_bricks",
+        "translation": "红色地狱砖块"
+    },
+    "359": {
+        "id": 359,
+        "name": "bone_block",
+        "translation": "骨块"
+    },
+    "360": {
+        "id": 360,
+        "name": "structure_void",
+        "translation": "结构空位"
+    },
+    "361": {
+        "id": 361,
+        "name": "observer",
+        "translation": "侦测器"
+    },
+    "362": {
+        "id": 362,
+        "name": "shulker_box",
+        "translation": "潜影盒"
+    },
+    "363": {
+        "id": 363,
+        "name": "white_shulker_box",
+        "translation": "白色潜影盒"
+    },
+    "364": {
+        "id": 364,
+        "name": "orange_shulker_box",
+        "translation": "橙色潜影盒"
+    },
+    "365": {
+        "id": 365,
+        "name": "magenta_shulker_box",
+        "translation": "品红色潜影盒"
+    },
+    "366": {
+        "id": 366,
+        "name": "light_blue_shulker_box",
+        "translation": "淡蓝色潜影盒"
+    },
+    "367": {
+        "id": 367,
+        "name": "yellow_shulker_box",
+        "translation": "黄色潜影盒"
+    },
+    "368": {
+        "id": 368,
+        "name": "lime_shulker_box",
+        "translation": "黄绿色潜影盒"
+    },
+    "369": {
+        "id": 369,
+        "name": "pink_shulker_box",
+        "translation": "粉红色潜影盒"
+    },
+    "370": {
+        "id": 370,
+        "name": "gray_shulker_box",
+        "translation": "灰色潜影盒"
+    },
+    "371": {
+        "id": 371,
+        "name": "light_gray_shulker_box",
+        "translation": "淡灰色潜影盒"
+    },
+    "372": {
+        "id": 372,
+        "name": "cyan_shulker_box",
+        "translation": "青色潜影盒"
+    },
+    "373": {
+        "id": 373,
+        "name": "purple_shulker_box",
+        "translation": "紫色潜影盒"
+    },
+    "374": {
+        "id": 374,
+        "name": "blue_shulker_box",
+        "translation": "蓝色潜影盒"
+    },
+    "375": {
+        "id": 375,
+        "name": "brown_shulker_box",
+        "translation": "棕色潜影盒"
+    },
+    "376": {
+        "id": 376,
+        "name": "green_shulker_box",
+        "translation": "绿色潜影盒"
+    },
+    "377": {
+        "id": 377,
+        "name": "red_shulker_box",
+        "translation": "红色潜影盒"
+    },
+    "378": {
+        "id": 378,
+        "name": "black_shulker_box",
+        "translation": "黑色潜影盒"
+    },
+    "379": {
+        "id": 379,
+        "name": "white_glazed_terracotta",
+        "translation": "白色带釉陶瓦"
+    },
+    "380": {
+        "id": 380,
+        "name": "orange_glazed_terracotta",
+        "translation": "橙色带釉陶瓦"
+    },
+    "381": {
+        "id": 381,
+        "name": "magenta_glazed_terracotta",
+        "translation": "品红色带釉陶瓦"
+    },
+    "382": {
+        "id": 382,
+        "name": "light_blue_glazed_terracotta",
+        "translation": "淡蓝色带釉陶瓦"
+    },
+    "383": {
+        "id": 383,
+        "name": "yellow_glazed_terracotta",
+        "translation": "黄色带釉陶瓦"
+    },
+    "384": {
+        "id": 384,
+        "name": "lime_glazed_terracotta",
+        "translation": "黄绿色带釉陶瓦"
+    },
+    "385": {
+        "id": 385,
+        "name": "pink_glazed_terracotta",
+        "translation": "粉红色带釉陶瓦"
+    },
+    "386": {
+        "id": 386,
+        "name": "gray_glazed_terracotta",
+        "translation": "灰色带釉陶瓦"
+    },
+    "387": {
+        "id": 387,
+        "name": "light_gray_glazed_terracotta",
+        "translation": "淡灰色带釉陶瓦"
+    },
+    "388": {
+        "id": 388,
+        "name": "cyan_glazed_terracotta",
+        "translation": "青色带釉陶瓦"
+    },
+    "389": {
+        "id": 389,
+        "name": "purple_glazed_terracotta",
+        "translation": "紫色带釉陶瓦"
+    },
+    "390": {
+        "id": 390,
+        "name": "blue_glazed_terracotta",
+        "translation": "蓝色带釉陶瓦"
+    },
+    "391": {
+        "id": 391,
+        "name": "brown_glazed_terracotta",
+        "translation": "棕色带釉陶瓦"
+    },
+    "392": {
+        "id": 392,
+        "name": "green_glazed_terracotta",
+        "translation": "绿色带釉陶瓦"
+    },
+    "393": {
+        "id": 393,
+        "name": "red_glazed_terracotta",
+        "translation": "红色带釉陶瓦"
+    },
+    "394": {
+        "id": 394,
+        "name": "black_glazed_terracotta",
+        "translation": "黑色带釉陶瓦"
+    },
+    "395": {
+        "id": 395,
+        "name": "white_concrete",
+        "translation": "白色混凝土"
+    },
+    "396": {
+        "id": 396,
+        "name": "orange_concrete",
+        "translation": "橙色混凝土"
+    },
+    "397": {
+        "id": 397,
+        "name": "magenta_concrete",
+        "translation": "品红色混凝土"
+    },
+    "398": {
+        "id": 398,
+        "name": "light_blue_concrete",
+        "translation": "淡蓝色混凝土"
+    },
+    "399": {
+        "id": 399,
+        "name": "yellow_concrete",
+        "translation": "黄色混凝土"
+    },
+    "400": {
+        "id": 400,
+        "name": "lime_concrete",
+        "translation": "黄绿色混凝土"
+    },
+    "401": {
+        "id": 401,
+        "name": "pink_concrete",
+        "translation": "粉红色混凝土"
+    },
+    "402": {
+        "id": 402,
+        "name": "gray_concrete",
+        "translation": "灰色混凝土"
+    },
+    "403": {
+        "id": 403,
+        "name": "light_gray_concrete",
+        "translation": "淡灰色混凝土"
+    },
+    "404": {
+        "id": 404,
+        "name": "cyan_concrete",
+        "translation": "青色混凝土"
+    },
+    "405": {
+        "id": 405,
+        "name": "purple_concrete",
+        "translation": "紫色混凝土"
+    },
+    "406": {
+        "id": 406,
+        "name": "blue_concrete",
+        "translation": "蓝色混凝土"
+    },
+    "407": {
+        "id": 407,
+        "name": "brown_concrete",
+        "translation": "棕色混凝土"
+    },
+    "408": {
+        "id": 408,
+        "name": "green_concrete",
+        "translation": "绿色混凝土"
+    },
+    "409": {
+        "id": 409,
+        "name": "red_concrete",
+        "translation": "红色混凝土"
+    },
+    "410": {
+        "id": 410,
+        "name": "black_concrete",
+        "translation": "黑色混凝土"
+    },
+    "411": {
+        "id": 411,
+        "name": "white_concrete_powder",
+        "translation": "白色混凝土粉末"
+    },
+    "412": {
+        "id": 412,
+        "name": "orange_concrete_powder",
+        "translation": "橙色混凝土粉末"
+    },
+    "413": {
+        "id": 413,
+        "name": "magenta_concrete_powder",
+        "translation": "品红色混凝土粉末"
+    },
+    "414": {
+        "id": 414,
+        "name": "light_blue_concrete_powder",
+        "translation": "淡蓝色混凝土粉末"
+    },
+    "415": {
+        "id": 415,
+        "name": "yellow_concrete_powder",
+        "translation": "黄色混凝土粉末"
+    },
+    "416": {
+        "id": 416,
+        "name": "lime_concrete_powder",
+        "translation": "黄绿色混凝土粉末"
+    },
+    "417": {
+        "id": 417,
+        "name": "pink_concrete_powder",
+        "translation": "粉红色混凝土粉末"
+    },
+    "418": {
+        "id": 418,
+        "name": "gray_concrete_powder",
+        "translation": "灰色混凝土粉末"
+    },
+    "419": {
+        "id": 419,
+        "name": "light_gray_concrete_powder",
+        "translation": "淡灰色混凝土粉末"
+    },
+    "420": {
+        "id": 420,
+        "name": "cyan_concrete_powder",
+        "translation": "青色混凝土粉末"
+    },
+    "421": {
+        "id": 421,
+        "name": "purple_concrete_powder",
+        "translation": "紫色混凝土粉末"
+    },
+    "422": {
+        "id": 422,
+        "name": "blue_concrete_powder",
+        "translation": "蓝色混凝土粉末"
+    },
+    "423": {
+        "id": 423,
+        "name": "brown_concrete_powder",
+        "translation": "棕色混凝土粉末"
+    },
+    "424": {
+        "id": 424,
+        "name": "green_concrete_powder",
+        "translation": "绿色混凝土粉末"
+    },
+    "425": {
+        "id": 425,
+        "name": "red_concrete_powder",
+        "translation": "红色混凝土粉末"
+    },
+    "426": {
+        "id": 426,
+        "name": "black_concrete_powder",
+        "translation": "黑色混凝土粉末"
+    },
+    "427": {
+        "id": 427,
+        "name": "turtle_egg",
+        "translation": "海龟蛋"
+    },
+    "428": {
+        "id": 428,
+        "name": "dead_tube_coral_block",
+        "translation": "失活的管珊瑚块"
+    },
+    "429": {
+        "id": 429,
+        "name": "dead_brain_coral_block",
+        "translation": "失活的脑纹珊瑚块"
+    },
+    "430": {
+        "id": 430,
+        "name": "dead_bubble_coral_block",
+        "translation": "失活的气泡珊瑚块"
+    },
+    "431": {
+        "id": 431,
+        "name": "dead_fire_coral_block",
+        "translation": "失活的火珊瑚块"
+    },
+    "432": {
+        "id": 432,
+        "name": "dead_horn_coral_block",
+        "translation": "失活的鹿角珊瑚块"
+    },
+    "433": {
+        "id": 433,
+        "name": "tube_coral_block",
+        "translation": "管珊瑚块"
+    },
+    "434": {
+        "id": 434,
+        "name": "brain_coral_block",
+        "translation": "脑纹珊瑚块"
+    },
+    "435": {
+        "id": 435,
+        "name": "bubble_coral_block",
+        "translation": "气泡珊瑚块"
+    },
+    "436": {
+        "id": 436,
+        "name": "fire_coral_block",
+        "translation": "火珊瑚块"
+    },
+    "437": {
+        "id": 437,
+        "name": "horn_coral_block",
+        "translation": "鹿角珊瑚块"
+    },
+    "438": {
+        "id": 438,
+        "name": "tube_coral",
+        "translation": "管珊瑚"
+    },
+    "439": {
+        "id": 439,
+        "name": "brain_coral",
+        "translation": "脑纹珊瑚"
+    },
+    "440": {
+        "id": 440,
+        "name": "bubble_coral",
+        "translation": "气泡珊瑚"
+    },
+    "441": {
+        "id": 441,
+        "name": "fire_coral",
+        "translation": "火珊瑚"
+    },
+    "442": {
+        "id": 442,
+        "name": "horn_coral",
+        "translation": "鹿角珊瑚"
+    },
+    "443": {
+        "id": 443,
+        "name": "dead_brain_coral",
+        "translation": "失活的脑纹珊瑚"
+    },
+    "444": {
+        "id": 444,
+        "name": "dead_bubble_coral",
+        "translation": "失活的气泡珊瑚"
+    },
+    "445": {
+        "id": 445,
+        "name": "dead_fire_coral",
+        "translation": "失活的火珊瑚"
+    },
+    "446": {
+        "id": 446,
+        "name": "dead_horn_coral",
+        "translation": "失活的鹿角珊瑚"
+    },
+    "447": {
+        "id": 447,
+        "name": "dead_tube_coral",
+        "translation": "失活的管珊瑚"
+    },
+    "448": {
+        "id": 448,
+        "name": "tube_coral_fan",
+        "translation": "管珊瑚扇"
+    },
+    "449": {
+        "id": 449,
+        "name": "brain_coral_fan",
+        "translation": "脑纹珊瑚扇"
+    },
+    "450": {
+        "id": 450,
+        "name": "bubble_coral_fan",
+        "translation": "气泡珊瑚扇"
+    },
+    "451": {
+        "id": 451,
+        "name": "fire_coral_fan",
+        "translation": "火珊瑚扇"
+    },
+    "452": {
+        "id": 452,
+        "name": "horn_coral_fan",
+        "translation": "鹿角珊瑚扇"
+    },
+    "453": {
+        "id": 453,
+        "name": "dead_tube_coral_fan",
+        "translation": "失活的管珊瑚扇"
+    },
+    "454": {
+        "id": 454,
+        "name": "dead_brain_coral_fan",
+        "translation": "失活的脑纹珊瑚扇"
+    },
+    "455": {
+        "id": 455,
+        "name": "dead_bubble_coral_fan",
+        "translation": "失活的气泡珊瑚扇"
+    },
+    "456": {
+        "id": 456,
+        "name": "dead_fire_coral_fan",
+        "translation": "失活的火珊瑚扇"
+    },
+    "457": {
+        "id": 457,
+        "name": "dead_horn_coral_fan",
+        "translation": "失活的鹿角珊瑚扇"
+    },
+    "458": {
+        "id": 458,
+        "name": "blue_ice",
+        "translation": "蓝冰"
+    },
+    "459": {
+        "id": 459,
+        "name": "conduit",
+        "translation": "潮涌核心"
+    },
+    "460": {
+        "id": 460,
+        "name": "iron_door",
+        "translation": "铁门"
+    },
+    "461": {
+        "id": 461,
+        "name": "oak_door",
+        "translation": "橡木门"
+    },
+    "462": {
+        "id": 462,
+        "name": "spruce_door",
+        "translation": "云杉木门"
+    },
+    "463": {
+        "id": 463,
+        "name": "birch_door",
+        "translation": "白桦木门"
+    },
+    "464": {
+        "id": 464,
+        "name": "jungle_door",
+        "translation": "丛林木门"
+    },
+    "465": {
+        "id": 465,
+        "name": "acacia_door",
+        "translation": "金合欢木门"
+    },
+    "466": {
+        "id": 466,
+        "name": "dark_oak_door",
+        "translation": "深色橡木门"
+    },
+    "467": {
+        "id": 467,
+        "name": "repeater",
+        "translation": "红石中继器"
+    },
+    "468": {
+        "id": 468,
+        "name": "comparator",
+        "translation": "红石比较器"
+    },
+    "469": {
+        "id": 469,
+        "name": "structure_block",
+        "translation": "结构方块"
+    },
+    "470": {
+        "id": 470,
+        "name": "turtle_helmet",
+        "translation": "海龟壳"
+    },
+    "471": {
+        "id": 471,
+        "name": "scute",
+        "translation": "鳞甲"
+    },
+    "472": {
+        "id": 472,
+        "name": "iron_shovel",
+        "translation": "铁锹"
+    },
+    "473": {
+        "id": 473,
+        "name": "iron_pickaxe",
+        "translation": "铁镐"
+    },
+    "474": {
+        "id": 474,
+        "name": "iron_axe",
+        "translation": "铁斧"
+    },
+    "475": {
+        "id": 475,
+        "name": "flint_and_steel",
+        "translation": "打火石"
+    },
+    "476": {
+        "id": 476,
+        "name": "apple",
+        "translation": "苹果"
+    },
+    "477": {
+        "id": 477,
+        "name": "bow",
+        "translation": "弓"
+    },
+    "478": {
+        "id": 478,
+        "name": "arrow",
+        "translation": "箭"
+    },
+    "479": {
+        "id": 479,
+        "name": "coal",
+        "translation": "煤炭"
+    },
+    "480": {
+        "id": 480,
+        "name": "charcoal",
+        "translation": "木炭"
+    },
+    "481": {
+        "id": 481,
+        "name": "diamond",
+        "translation": "钻石"
+    },
+    "482": {
+        "id": 482,
+        "name": "iron_ingot",
+        "translation": "铁锭"
+    },
+    "483": {
+        "id": 483,
+        "name": "gold_ingot",
+        "translation": "金锭"
+    },
+    "484": {
+        "id": 484,
+        "name": "iron_sword",
+        "translation": "铁剑"
+    },
+    "485": {
+        "id": 485,
+        "name": "wooden_sword",
+        "translation": "木剑"
+    },
+    "486": {
+        "id": 486,
+        "name": "wooden_shovel",
+        "translation": "木锹"
+    },
+    "487": {
+        "id": 487,
+        "name": "wooden_pickaxe",
+        "translation": "木镐"
+    },
+    "488": {
+        "id": 488,
+        "name": "wooden_axe",
+        "translation": "木斧"
+    },
+    "489": {
+        "id": 489,
+        "name": "stone_sword",
+        "translation": "石剑"
+    },
+    "490": {
+        "id": 490,
+        "name": "stone_shovel",
+        "translation": "石锹"
+    },
+    "491": {
+        "id": 491,
+        "name": "stone_pickaxe",
+        "translation": "石镐"
+    },
+    "492": {
+        "id": 492,
+        "name": "stone_axe",
+        "translation": "石斧"
+    },
+    "493": {
+        "id": 493,
+        "name": "diamond_sword",
+        "translation": "钻石剑"
+    },
+    "494": {
+        "id": 494,
+        "name": "diamond_shovel",
+        "translation": "钻石锹"
+    },
+    "495": {
+        "id": 495,
+        "name": "diamond_pickaxe",
+        "translation": "钻石镐"
+    },
+    "496": {
+        "id": 496,
+        "name": "diamond_axe",
+        "translation": "钻石斧"
+    },
+    "497": {
+        "id": 497,
+        "name": "stick",
+        "translation": "木棍"
+    },
+    "498": {
+        "id": 498,
+        "name": "bowl",
+        "translation": "碗"
+    },
+    "499": {
+        "id": 499,
+        "name": "mushroom_stew",
+        "translation": "蘑菇煲"
+    },
+    "500": {
+        "id": 500,
+        "name": "golden_sword",
+        "translation": "金剑"
+    },
+    "501": {
+        "id": 501,
+        "name": "golden_shovel",
+        "translation": "金锹"
+    },
+    "502": {
+        "id": 502,
+        "name": "golden_pickaxe",
+        "translation": "金镐"
+    },
+    "503": {
+        "id": 503,
+        "name": "golden_axe",
+        "translation": "金斧"
+    },
+    "504": {
+        "id": 504,
+        "name": "string",
+        "translation": "线"
+    },
+    "505": {
+        "id": 505,
+        "name": "feather",
+        "translation": "羽毛"
+    },
+    "506": {
+        "id": 506,
+        "name": "gunpowder",
+        "translation": "火药"
+    },
+    "507": {
+        "id": 507,
+        "name": "wooden_hoe",
+        "translation": "木锄"
+    },
+    "508": {
+        "id": 508,
+        "name": "stone_hoe",
+        "translation": "石锄"
+    },
+    "509": {
+        "id": 509,
+        "name": "iron_hoe",
+        "translation": "铁锄"
+    },
+    "510": {
+        "id": 510,
+        "name": "diamond_hoe",
+        "translation": "钻石锄"
+    },
+    "511": {
+        "id": 511,
+        "name": "golden_hoe",
+        "translation": "金锄"
+    },
+    "512": {
+        "id": 512,
+        "name": "wheat_seeds",
+        "translation": "小麦种子"
+    },
+    "513": {
+        "id": 513,
+        "name": "wheat",
+        "translation": "小麦"
+    },
+    "514": {
+        "id": 514,
+        "name": "bread",
+        "translation": "面包"
+    },
+    "515": {
+        "id": 515,
+        "name": "leather_helmet",
+        "translation": "皮革帽子"
+    },
+    "516": {
+        "id": 516,
+        "name": "leather_chestplate",
+        "translation": "皮革外套"
+    },
+    "517": {
+        "id": 517,
+        "name": "leather_leggings",
+        "translation": "皮革裤子"
+    },
+    "518": {
+        "id": 518,
+        "name": "leather_boots",
+        "translation": "皮革靴子"
+    },
+    "519": {
+        "id": 519,
+        "name": "chainmail_helmet",
+        "translation": "锁链头盔"
+    },
+    "520": {
+        "id": 520,
+        "name": "chainmail_chestplate",
+        "translation": "锁链胸甲"
+    },
+    "521": {
+        "id": 521,
+        "name": "chainmail_leggings",
+        "translation": "锁链护腿"
+    },
+    "522": {
+        "id": 522,
+        "name": "chainmail_boots",
+        "translation": "锁链靴子"
+    },
+    "523": {
+        "id": 523,
+        "name": "iron_helmet",
+        "translation": "铁头盔"
+    },
+    "524": {
+        "id": 524,
+        "name": "iron_chestplate",
+        "translation": "铁胸甲"
+    },
+    "525": {
+        "id": 525,
+        "name": "iron_leggings",
+        "translation": "铁护腿"
+    },
+    "526": {
+        "id": 526,
+        "name": "iron_boots",
+        "translation": "铁靴子"
+    },
+    "527": {
+        "id": 527,
+        "name": "diamond_helmet",
+        "translation": "钻石头盔"
+    },
+    "528": {
+        "id": 528,
+        "name": "diamond_chestplate",
+        "translation": "钻石胸甲"
+    },
+    "529": {
+        "id": 529,
+        "name": "diamond_leggings",
+        "translation": "钻石护腿"
+    },
+    "530": {
+        "id": 530,
+        "name": "diamond_boots",
+        "translation": "钻石靴子"
+    },
+    "531": {
+        "id": 531,
+        "name": "golden_helmet",
+        "translation": "金头盔"
+    },
+    "532": {
+        "id": 532,
+        "name": "golden_chestplate",
+        "translation": "金胸甲"
+    },
+    "533": {
+        "id": 533,
+        "name": "golden_leggings",
+        "translation": "金护腿"
+    },
+    "534": {
+        "id": 534,
+        "name": "golden_boots",
+        "translation": "金靴子"
+    },
+    "535": {
+        "id": 535,
+        "name": "flint",
+        "translation": "燧石"
+    },
+    "536": {
+        "id": 536,
+        "name": "porkchop",
+        "translation": "生猪排"
+    },
+    "537": {
+        "id": 537,
+        "name": "cooked_porkchop",
+        "translation": "熟猪排"
+    },
+    "538": {
+        "id": 538,
+        "name": "painting",
+        "translation": "画"
+    },
+    "539": {
+        "id": 539,
+        "name": "golden_apple",
+        "translation": "金苹果"
+    },
+    "540": {
+        "id": 540,
+        "name": "enchanted_golden_apple",
+        "translation": "附魔金苹果"
+    },
+    "541": {
+        "id": 541,
+        "name": "sign",
+        "translation": "告示牌"
+    },
+    "542": {
+        "id": 542,
+        "name": "bucket",
+        "translation": "桶"
+    },
+    "543": {
+        "id": 543,
+        "name": "water_bucket",
+        "translation": "水桶"
+    },
+    "544": {
+        "id": 544,
+        "name": "lava_bucket",
+        "translation": "熔岩桶"
+    },
+    "545": {
+        "id": 545,
+        "name": "minecart",
+        "translation": "矿车"
+    },
+    "546": {
+        "id": 546,
+        "name": "saddle",
+        "translation": "鞍"
+    },
+    "547": {
+        "id": 547,
+        "name": "redstone",
+        "translation": "红石"
+    },
+    "548": {
+        "id": 548,
+        "name": "snowball",
+        "translation": "雪球"
+    },
+    "549": {
+        "id": 549,
+        "name": "oak_boat",
+        "translation": "橡木船"
+    },
+    "550": {
+        "id": 550,
+        "name": "leather",
+        "translation": "皮革"
+    },
+    "551": {
+        "id": 551,
+        "name": "milk_bucket",
+        "translation": "牛奶桶"
+    },
+    "552": {
+        "id": 552,
+        "name": "pufferfish_bucket",
+        "translation": "河豚桶"
+    },
+    "553": {
+        "id": 553,
+        "name": "salmon_bucket",
+        "translation": "鲑鱼桶"
+    },
+    "554": {
+        "id": 554,
+        "name": "cod_bucket",
+        "translation": "鳕鱼桶"
+    },
+    "555": {
+        "id": 555,
+        "name": "tropical_fish_bucket",
+        "translation": "热带鱼桶"
+    },
+    "556": {
+        "id": 556,
+        "name": "brick",
+        "translation": "红砖"
+    },
+    "557": {
+        "id": 557,
+        "name": "clay_ball",
+        "translation": "粘土"
+    },
+    "558": {
+        "id": 558,
+        "name": "sugar_cane",
+        "translation": "甘蔗"
+    },
+    "559": {
+        "id": 559,
+        "name": "kelp",
+        "translation": "海带"
+    },
+    "560": {
+        "id": 560,
+        "name": "dried_kelp_block",
+        "translation": "干海带块"
+    },
+    "561": {
+        "id": 561,
+        "name": "paper",
+        "translation": "纸"
+    },
+    "562": {
+        "id": 562,
+        "name": "book",
+        "translation": "书"
+    },
+    "563": {
+        "id": 563,
+        "name": "slime_ball",
+        "translation": "粘液球"
+    },
+    "564": {
+        "id": 564,
+        "name": "chest_minecart",
+        "translation": "运输矿车"
+    },
+    "565": {
+        "id": 565,
+        "name": "furnace_minecart",
+        "translation": "动力矿车"
+    },
+    "566": {
+        "id": 566,
+        "name": "egg",
+        "translation": "鸡蛋"
+    },
+    "567": {
+        "id": 567,
+        "name": "compass",
+        "translation": "指南针"
+    },
+    "568": {
+        "id": 568,
+        "name": "fishing_rod",
+        "translation": "钓鱼竿"
+    },
+    "569": {
+        "id": 569,
+        "name": "clock",
+        "translation": "钟"
+    },
+    "570": {
+        "id": 570,
+        "name": "glowstone_dust",
+        "translation": "荧石粉"
+    },
+    "571": {
+        "id": 571,
+        "name": "cod",
+        "translation": "生鳕鱼"
+    },
+    "572": {
+        "id": 572,
+        "name": "salmon",
+        "translation": "生鲑鱼"
+    },
+    "573": {
+        "id": 573,
+        "name": "tropical_fish",
+        "translation": "热带鱼"
+    },
+    "574": {
+        "id": 574,
+        "name": "pufferfish",
+        "translation": "河豚"
+    },
+    "575": {
+        "id": 575,
+        "name": "cooked_cod",
+        "translation": "熟鳕鱼"
+    },
+    "576": {
+        "id": 576,
+        "name": "cooked_salmon",
+        "translation": "熟鲑鱼"
+    },
+    "577": {
+        "id": 577,
+        "name": "ink_sac",
+        "translation": "墨囊"
+    },
+    "578": {
+        "id": 578,
+        "name": "rose_red",
+        "translation": "玫瑰红"
+    },
+    "579": {
+        "id": 579,
+        "name": "cactus_green",
+        "translation": "仙人掌绿"
+    },
+    "580": {
+        "id": 580,
+        "name": "cocoa_beans",
+        "translation": "可可豆"
+    },
+    "581": {
+        "id": 581,
+        "name": "lapis_lazuli",
+        "translation": "青金石"
+    },
+    "582": {
+        "id": 582,
+        "name": "purple_dye",
+        "translation": "紫色染料"
+    },
+    "583": {
+        "id": 583,
+        "name": "cyan_dye",
+        "translation": "青色染料"
+    },
+    "584": {
+        "id": 584,
+        "name": "light_gray_dye",
+        "translation": "淡灰色染料"
+    },
+    "585": {
+        "id": 585,
+        "name": "gray_dye",
+        "translation": "灰色染料"
+    },
+    "586": {
+        "id": 586,
+        "name": "pink_dye",
+        "translation": "粉红色染料"
+    },
+    "587": {
+        "id": 587,
+        "name": "lime_dye",
+        "translation": "黄绿色染料"
+    },
+    "588": {
+        "id": 588,
+        "name": "dandelion_yellow",
+        "translation": "蒲公英黄"
+    },
+    "589": {
+        "id": 589,
+        "name": "light_blue_dye",
+        "translation": "淡蓝色染料"
+    },
+    "590": {
+        "id": 590,
+        "name": "magenta_dye",
+        "translation": "品红色染料"
+    },
+    "591": {
+        "id": 591,
+        "name": "orange_dye",
+        "translation": "橙色染料"
+    },
+    "592": {
+        "id": 592,
+        "name": "bone_meal",
+        "translation": "骨粉"
+    },
+    "593": {
+        "id": 593,
+        "name": "bone",
+        "translation": "骨头"
+    },
+    "594": {
+        "id": 594,
+        "name": "sugar",
+        "translation": "糖"
+    },
+    "595": {
+        "id": 595,
+        "name": "cake",
+        "translation": "蛋糕"
+    },
+    "596": {
+        "id": 596,
+        "name": "white_bed",
+        "translation": "白色床"
+    },
+    "597": {
+        "id": 597,
+        "name": "orange_bed",
+        "translation": "橙色床"
+    },
+    "598": {
+        "id": 598,
+        "name": "magenta_bed",
+        "translation": "品红色床"
+    },
+    "599": {
+        "id": 599,
+        "name": "light_blue_bed",
+        "translation": "淡蓝色床"
+    },
+    "600": {
+        "id": 600,
+        "name": "yellow_bed",
+        "translation": "黄色床"
+    },
+    "601": {
+        "id": 601,
+        "name": "lime_bed",
+        "translation": "黄绿色床"
+    },
+    "602": {
+        "id": 602,
+        "name": "pink_bed",
+        "translation": "粉红色床"
+    },
+    "603": {
+        "id": 603,
+        "name": "gray_bed",
+        "translation": "灰色床"
+    },
+    "604": {
+        "id": 604,
+        "name": "light_gray_bed",
+        "translation": "淡灰色床"
+    },
+    "605": {
+        "id": 605,
+        "name": "cyan_bed",
+        "translation": "青色床"
+    },
+    "606": {
+        "id": 606,
+        "name": "purple_bed",
+        "translation": "紫色床"
+    },
+    "607": {
+        "id": 607,
+        "name": "blue_bed",
+        "translation": "蓝色床"
+    },
+    "608": {
+        "id": 608,
+        "name": "brown_bed",
+        "translation": "棕色床"
+    },
+    "609": {
+        "id": 609,
+        "name": "green_bed",
+        "translation": "绿色床"
+    },
+    "610": {
+        "id": 610,
+        "name": "red_bed",
+        "translation": "红色床"
+    },
+    "611": {
+        "id": 611,
+        "name": "black_bed",
+        "translation": "黑色床"
+    },
+    "612": {
+        "id": 612,
+        "name": "cookie",
+        "translation": "曲奇"
+    },
+    "613": {
+        "id": 613,
+        "name": "filled_map",
+        "translation": "地图"
+    },
+    "614": {
+        "id": 614,
+        "name": "shears",
+        "translation": "剪刀"
+    },
+    "615": {
+        "id": 615,
+        "name": "melon_slice",
+        "translation": "西瓜片"
+    },
+    "616": {
+        "id": 616,
+        "name": "dried_kelp",
+        "translation": "干海带"
+    },
+    "617": {
+        "id": 617,
+        "name": "pumpkin_seeds",
+        "translation": "南瓜种子"
+    },
+    "618": {
+        "id": 618,
+        "name": "melon_seeds",
+        "translation": "西瓜种子"
+    },
+    "619": {
+        "id": 619,
+        "name": "beef",
+        "translation": "生牛肉"
+    },
+    "620": {
+        "id": 620,
+        "name": "cooked_beef",
+        "translation": "牛排"
+    },
+    "621": {
+        "id": 621,
+        "name": "chicken",
+        "translation": "生鸡肉"
+    },
+    "622": {
+        "id": 622,
+        "name": "cooked_chicken",
+        "translation": "熟鸡肉"
+    },
+    "623": {
+        "id": 623,
+        "name": "rotten_flesh",
+        "translation": "腐肉"
+    },
+    "624": {
+        "id": 624,
+        "name": "ender_pearl",
+        "translation": "末影珍珠"
+    },
+    "625": {
+        "id": 625,
+        "name": "blaze_rod",
+        "translation": "烈焰棒"
+    },
+    "626": {
+        "id": 626,
+        "name": "ghast_tear",
+        "translation": "恶魂之泪"
+    },
+    "627": {
+        "id": 627,
+        "name": "gold_nugget",
+        "translation": "金粒"
+    },
+    "628": {
+        "id": 628,
+        "name": "nether_wart",
+        "translation": "地狱疣"
+    },
+    "629": {
+        "id": 629,
+        "name": "potion",
+        "translation": "药水"
+    },
+    "630": {
+        "id": 630,
+        "name": "glass_bottle",
+        "translation": "玻璃瓶"
+    },
+    "631": {
+        "id": 631,
+        "name": "spider_eye",
+        "translation": "蜘蛛眼"
+    },
+    "632": {
+        "id": 632,
+        "name": "fermented_spider_eye",
+        "translation": "发酵蛛眼"
+    },
+    "633": {
+        "id": 633,
+        "name": "blaze_powder",
+        "translation": "烈焰粉"
+    },
+    "634": {
+        "id": 634,
+        "name": "magma_cream",
+        "translation": "岩浆膏"
+    },
+    "635": {
+        "id": 635,
+        "name": "brewing_stand",
+        "translation": "酿造台"
+    },
+    "636": {
+        "id": 636,
+        "name": "cauldron",
+        "translation": "炼药锅"
+    },
+    "637": {
+        "id": 637,
+        "name": "ender_eye",
+        "translation": "末影之眼"
+    },
+    "638": {
+        "id": 638,
+        "name": "glistering_melon_slice",
+        "translation": "闪烁的西瓜片"
+    },
+    "639": {
+        "id": 639,
+        "name": "bat_spawn_egg",
+        "translation": "蝙蝠刷怪蛋"
+    },
+    "640": {
+        "id": 640,
+        "name": "blaze_spawn_egg",
+        "translation": "烈焰人刷怪蛋"
+    },
+    "641": {
+        "id": 641,
+        "name": "cave_spider_spawn_egg",
+        "translation": "洞穴蜘蛛刷怪蛋"
+    },
+    "642": {
+        "id": 642,
+        "name": "chicken_spawn_egg",
+        "translation": "鸡刷怪蛋"
+    },
+    "643": {
+        "id": 643,
+        "name": "cod_spawn_egg",
+        "translation": "鳕鱼刷怪蛋"
+    },
+    "644": {
+        "id": 644,
+        "name": "cow_spawn_egg",
+        "translation": "牛刷怪蛋"
+    },
+    "645": {
+        "id": 645,
+        "name": "creeper_spawn_egg",
+        "translation": "爬行者刷怪蛋"
+    },
+    "646": {
+        "id": 646,
+        "name": "dolphin_spawn_egg",
+        "translation": "海豚刷怪蛋"
+    },
+    "647": {
+        "id": 647,
+        "name": "donkey_spawn_egg",
+        "translation": "驴刷怪蛋"
+    },
+    "648": {
+        "id": 648,
+        "name": "drowned_spawn_egg",
+        "translation": "溺尸刷怪蛋"
+    },
+    "649": {
+        "id": 649,
+        "name": "elder_guardian_spawn_egg",
+        "translation": "远古守卫者刷怪蛋"
+    },
+    "650": {
+        "id": 650,
+        "name": "enderman_spawn_egg",
+        "translation": "末影人刷怪蛋"
+    },
+    "651": {
+        "id": 651,
+        "name": "endermite_spawn_egg",
+        "translation": "末影螨刷怪蛋"
+    },
+    "652": {
+        "id": 652,
+        "name": "evoker_spawn_egg",
+        "translation": "唤魔者刷怪蛋"
+    },
+    "653": {
+        "id": 653,
+        "name": "ghast_spawn_egg",
+        "translation": "恶魂刷怪蛋"
+    },
+    "654": {
+        "id": 654,
+        "name": "guardian_spawn_egg",
+        "translation": "守卫者刷怪蛋"
+    },
+    "655": {
+        "id": 655,
+        "name": "horse_spawn_egg",
+        "translation": "马刷怪蛋"
+    },
+    "656": {
+        "id": 656,
+        "name": "husk_spawn_egg",
+        "translation": "尸壳刷怪蛋"
+    },
+    "657": {
+        "id": 657,
+        "name": "llama_spawn_egg",
+        "translation": "羊驼刷怪蛋"
+    },
+    "658": {
+        "id": 658,
+        "name": "magma_cube_spawn_egg",
+        "translation": "岩浆怪刷怪蛋"
+    },
+    "659": {
+        "id": 659,
+        "name": "mooshroom_spawn_egg",
+        "translation": "哞菇刷怪蛋"
+    },
+    "660": {
+        "id": 660,
+        "name": "mule_spawn_egg",
+        "translation": "骡刷怪蛋"
+    },
+    "661": {
+        "id": 661,
+        "name": "ocelot_spawn_egg",
+        "translation": "豹猫刷怪蛋"
+    },
+    "662": {
+        "id": 662,
+        "name": "parrot_spawn_egg",
+        "translation": "鹦鹉刷怪蛋"
+    },
+    "663": {
+        "id": 663,
+        "name": "phantom_spawn_egg",
+        "translation": "幻翼刷怪蛋"
+    },
+    "664": {
+        "id": 664,
+        "name": "pig_spawn_egg",
+        "translation": "猪刷怪蛋"
+    },
+    "665": {
+        "id": 665,
+        "name": "polar_bear_spawn_egg",
+        "translation": "北极熊刷怪蛋"
+    },
+    "666": {
+        "id": 666,
+        "name": "pufferfish_spawn_egg",
+        "translation": "河豚刷怪蛋"
+    },
+    "667": {
+        "id": 667,
+        "name": "rabbit_spawn_egg",
+        "translation": "兔子刷怪蛋"
+    },
+    "668": {
+        "id": 668,
+        "name": "salmon_spawn_egg",
+        "translation": "鲑鱼刷怪蛋"
+    },
+    "669": {
+        "id": 669,
+        "name": "sheep_spawn_egg",
+        "translation": "羊刷怪蛋"
+    },
+    "670": {
+        "id": 670,
+        "name": "shulker_spawn_egg",
+        "translation": "潜影贝刷怪蛋"
+    },
+    "671": {
+        "id": 671,
+        "name": "silverfish_spawn_egg",
+        "translation": "蠹虫刷怪蛋"
+    },
+    "672": {
+        "id": 672,
+        "name": "skeleton_spawn_egg",
+        "translation": "骷髅刷怪蛋"
+    },
+    "673": {
+        "id": 673,
+        "name": "skeleton_horse_spawn_egg",
+        "translation": "骷髅马刷怪蛋"
+    },
+    "674": {
+        "id": 674,
+        "name": "slime_spawn_egg",
+        "translation": "史莱姆刷怪蛋"
+    },
+    "675": {
+        "id": 675,
+        "name": "spider_spawn_egg",
+        "translation": "蜘蛛刷怪蛋"
+    },
+    "676": {
+        "id": 676,
+        "name": "squid_spawn_egg",
+        "translation": "鱿鱼刷怪蛋"
+    },
+    "677": {
+        "id": 677,
+        "name": "stray_spawn_egg",
+        "translation": "流浪者刷怪蛋"
+    },
+    "678": {
+        "id": 678,
+        "name": "tropical_fish_spawn_egg",
+        "translation": "热带鱼刷怪蛋"
+    },
+    "679": {
+        "id": 679,
+        "name": "turtle_spawn_egg",
+        "translation": "海龟刷怪蛋"
+    },
+    "680": {
+        "id": 680,
+        "name": "vex_spawn_egg",
+        "translation": "恼鬼刷怪蛋"
+    },
+    "681": {
+        "id": 681,
+        "name": "villager_spawn_egg",
+        "translation": "村民刷怪蛋"
+    },
+    "682": {
+        "id": 682,
+        "name": "vindicator_spawn_egg",
+        "translation": "卫道士刷怪蛋"
+    },
+    "683": {
+        "id": 683,
+        "name": "witch_spawn_egg",
+        "translation": "女巫刷怪蛋"
+    },
+    "684": {
+        "id": 684,
+        "name": "wither_skeleton_spawn_egg",
+        "translation": "凋灵骷髅刷怪蛋"
+    },
+    "685": {
+        "id": 685,
+        "name": "wolf_spawn_egg",
+        "translation": "狼刷怪蛋"
+    },
+    "686": {
+        "id": 686,
+        "name": "zombie_spawn_egg",
+        "translation": "僵尸刷怪蛋"
+    },
+    "687": {
+        "id": 687,
+        "name": "zombie_horse_spawn_egg",
+        "translation": "僵尸马刷怪蛋"
+    },
+    "688": {
+        "id": 688,
+        "name": "zombie_pigman_spawn_egg",
+        "translation": "僵尸猪人刷怪蛋"
+    },
+    "689": {
+        "id": 689,
+        "name": "zombie_villager_spawn_egg",
+        "translation": "僵尸村民刷怪蛋"
+    },
+    "690": {
+        "id": 690,
+        "name": "experience_bottle",
+        "translation": "附魔之瓶"
+    },
+    "691": {
+        "id": 691,
+        "name": "fire_charge",
+        "translation": "火焰弹"
+    },
+    "692": {
+        "id": 692,
+        "name": "writable_book",
+        "translation": "书与笔"
+    },
+    "693": {
+        "id": 693,
+        "name": "written_book",
+        "translation": "成书"
+    },
+    "694": {
+        "id": 694,
+        "name": "emerald",
+        "translation": "绿宝石"
+    },
+    "695": {
+        "id": 695,
+        "name": "item_frame",
+        "translation": "物品展示框"
+    },
+    "696": {
+        "id": 696,
+        "name": "flower_pot",
+        "translation": "花盆"
+    },
+    "697": {
+        "id": 697,
+        "name": "carrot",
+        "translation": "胡萝卜"
+    },
+    "698": {
+        "id": 698,
+        "name": "potato",
+        "translation": "马铃薯"
+    },
+    "699": {
+        "id": 699,
+        "name": "baked_potato",
+        "translation": "烤马铃薯"
+    },
+    "700": {
+        "id": 700,
+        "name": "poisonous_potato",
+        "translation": "毒马铃薯"
+    },
+    "701": {
+        "id": 701,
+        "name": "map",
+        "translation": "空地图"
+    },
+    "702": {
+        "id": 702,
+        "name": "golden_carrot",
+        "translation": "金胡萝卜"
+    },
+    "703": {
+        "id": 703,
+        "name": "skeleton_skull",
+        "translation": "骷髅头颅"
+    },
+    "704": {
+        "id": 704,
+        "name": "wither_skeleton_skull",
+        "translation": "凋灵骷髅头颅"
+    },
+    "705": {
+        "id": 705,
+        "name": "player_head",
+        "translation": "玩家头颅"
+    },
+    "706": {
+        "id": 706,
+        "name": "zombie_head",
+        "translation": "僵尸的头"
+    },
+    "707": {
+        "id": 707,
+        "name": "creeper_head",
+        "translation": "爬行者的头"
+    },
+    "708": {
+        "id": 708,
+        "name": "dragon_head",
+        "translation": "龙首"
+    },
+    "709": {
+        "id": 709,
+        "name": "carrot_on_a_stick",
+        "translation": "胡萝卜钓竿"
+    },
+    "710": {
+        "id": 710,
+        "name": "nether_star",
+        "translation": "下界之星"
+    },
+    "711": {
+        "id": 711,
+        "name": "pumpkin_pie",
+        "translation": "南瓜派"
+    },
+    "712": {
+        "id": 712,
+        "name": "firework_rocket",
+        "translation": "烟花火箭"
+    },
+    "713": {
+        "id": 713,
+        "name": "firework_star",
+        "translation": "烟火之星"
+    },
+    "714": {
+        "id": 714,
+        "name": "enchanted_book",
+        "translation": "附魔书"
+    },
+    "715": {
+        "id": 715,
+        "name": "nether_brick",
+        "translation": "地狱砖"
+    },
+    "716": {
+        "id": 716,
+        "name": "quartz",
+        "translation": "下界石英"
+    },
+    "717": {
+        "id": 717,
+        "name": "tnt_minecart",
+        "translation": "TNT矿车"
+    },
+    "718": {
+        "id": 718,
+        "name": "hopper_minecart",
+        "translation": "漏斗矿车"
+    },
+    "719": {
+        "id": 719,
+        "name": "prismarine_shard",
+        "translation": "海晶碎片"
+    },
+    "720": {
+        "id": 720,
+        "name": "prismarine_crystals",
+        "translation": "海晶砂粒"
+    },
+    "721": {
+        "id": 721,
+        "name": "rabbit",
+        "translation": "生兔肉"
+    },
+    "722": {
+        "id": 722,
+        "name": "cooked_rabbit",
+        "translation": "熟兔肉"
+    },
+    "723": {
+        "id": 723,
+        "name": "rabbit_stew",
+        "translation": "兔肉煲"
+    },
+    "724": {
+        "id": 724,
+        "name": "rabbit_foot",
+        "translation": "兔子脚"
+    },
+    "725": {
+        "id": 725,
+        "name": "rabbit_hide",
+        "translation": "兔子皮"
+    },
+    "726": {
+        "id": 726,
+        "name": "armor_stand",
+        "translation": "盔甲架"
+    },
+    "727": {
+        "id": 727,
+        "name": "iron_horse_armor",
+        "translation": "铁马铠"
+    },
+    "728": {
+        "id": 728,
+        "name": "golden_horse_armor",
+        "translation": "金马铠"
+    },
+    "729": {
+        "id": 729,
+        "name": "diamond_horse_armor",
+        "translation": "钻石马铠"
+    },
+    "730": {
+        "id": 730,
+        "name": "lead",
+        "translation": "拴绳"
+    },
+    "731": {
+        "id": 731,
+        "name": "name_tag",
+        "translation": "命名牌"
+    },
+    "732": {
+        "id": 732,
+        "name": "command_block_minecart",
+        "translation": "命令方块矿车"
+    },
+    "733": {
+        "id": 733,
+        "name": "mutton",
+        "translation": "生羊肉"
+    },
+    "734": {
+        "id": 734,
+        "name": "cooked_mutton",
+        "translation": "熟羊肉"
+    },
+    "735": {
+        "id": 735,
+        "name": "white_banner",
+        "translation": "白色旗帜"
+    },
+    "736": {
+        "id": 736,
+        "name": "orange_banner",
+        "translation": "橙色旗帜"
+    },
+    "737": {
+        "id": 737,
+        "name": "magenta_banner",
+        "translation": "品红色旗帜"
+    },
+    "738": {
+        "id": 738,
+        "name": "light_blue_banner",
+        "translation": "淡蓝色旗帜"
+    },
+    "739": {
+        "id": 739,
+        "name": "yellow_banner",
+        "translation": "黄色旗帜"
+    },
+    "740": {
+        "id": 740,
+        "name": "lime_banner",
+        "translation": "黄绿色旗帜"
+    },
+    "741": {
+        "id": 741,
+        "name": "pink_banner",
+        "translation": "粉红色旗帜"
+    },
+    "742": {
+        "id": 742,
+        "name": "gray_banner",
+        "translation": "灰色旗帜"
+    },
+    "743": {
+        "id": 743,
+        "name": "light_gray_banner",
+        "translation": "淡灰色旗帜"
+    },
+    "744": {
+        "id": 744,
+        "name": "cyan_banner",
+        "translation": "青色旗帜"
+    },
+    "745": {
+        "id": 745,
+        "name": "purple_banner",
+        "translation": "紫色旗帜"
+    },
+    "746": {
+        "id": 746,
+        "name": "blue_banner",
+        "translation": "蓝色旗帜"
+    },
+    "747": {
+        "id": 747,
+        "name": "brown_banner",
+        "translation": "棕色旗帜"
+    },
+    "748": {
+        "id": 748,
+        "name": "green_banner",
+        "translation": "绿色旗帜"
+    },
+    "749": {
+        "id": 749,
+        "name": "red_banner",
+        "translation": "红色旗帜"
+    },
+    "750": {
+        "id": 750,
+        "name": "black_banner",
+        "translation": "黑色旗帜"
+    },
+    "751": {
+        "id": 751,
+        "name": "end_crystal",
+        "translation": "末影水晶"
+    },
+    "752": {
+        "id": 752,
+        "name": "chorus_fruit",
+        "translation": "紫颂果"
+    },
+    "753": {
+        "id": 753,
+        "name": "popped_chorus_fruit",
+        "translation": "爆裂紫颂果"
+    },
+    "754": {
+        "id": 754,
+        "name": "beetroot",
+        "translation": "甜菜根"
+    },
+    "755": {
+        "id": 755,
+        "name": "beetroot_seeds",
+        "translation": "甜菜种子"
+    },
+    "756": {
+        "id": 756,
+        "name": "beetroot_soup",
+        "translation": "甜菜汤"
+    },
+    "757": {
+        "id": 757,
+        "name": "dragon_breath",
+        "translation": "龙息"
+    },
+    "758": {
+        "id": 758,
+        "name": "splash_potion",
+        "translation": "喷溅药水"
+    },
+    "759": {
+        "id": 759,
+        "name": "spectral_arrow",
+        "translation": "光灵箭"
+    },
+    "760": {
+        "id": 760,
+        "name": "tipped_arrow",
+        "translation": "药箭"
+    },
+    "761": {
+        "id": 761,
+        "name": "lingering_potion",
+        "translation": "滞留药水"
+    },
+    "762": {
+        "id": 762,
+        "name": "shield",
+        "translation": "盾牌"
+    },
+    "763": {
+        "id": 763,
+        "name": "elytra",
+        "translation": "鞘翅"
+    },
+    "764": {
+        "id": 764,
+        "name": "spruce_boat",
+        "translation": "云杉木船"
+    },
+    "765": {
+        "id": 765,
+        "name": "birch_boat",
+        "translation": "白桦木船"
+    },
+    "766": {
+        "id": 766,
+        "name": "jungle_boat",
+        "translation": "丛林木船"
+    },
+    "767": {
+        "id": 767,
+        "name": "acacia_boat",
+        "translation": "金合欢木船"
+    },
+    "768": {
+        "id": 768,
+        "name": "dark_oak_boat",
+        "translation": "深色橡木船"
+    },
+    "769": {
+        "id": 769,
+        "name": "totem_of_undying",
+        "translation": "不死图腾"
+    },
+    "770": {
+        "id": 770,
+        "name": "shulker_shell",
+        "translation": "潜影壳"
+    },
+    "771": {
+        "id": 771,
+        "name": "iron_nugget",
+        "translation": "铁粒"
+    },
+    "772": {
+        "id": 772,
+        "name": "knowledge_book",
+        "translation": "知识之书"
+    },
+    "773": {
+        "id": 773,
+        "name": "debug_stick",
+        "translation": "调试棒"
+    },
+    "774": {
+        "id": 774,
+        "name": "music_disc_13",
+        "translation": "音乐唱片（C418-13）"
+    },
+    "775": {
+        "id": 775,
+        "name": "music_disc_cat",
+        "translation": "音乐唱片（C418-cat）"
+    },
+    "776": {
+        "id": 776,
+        "name": "music_disc_blocks",
+        "translation": "音乐唱片（C418-blocks）"
+    },
+    "777": {
+        "id": 777,
+        "name": "music_disc_chirp",
+        "translation": "音乐唱片（C418-chirp）"
+    },
+    "778": {
+        "id": 778,
+        "name": "music_disc_far",
+        "translation": "音乐唱片（C418-far）"
+    },
+    "779": {
+        "id": 779,
+        "name": "music_disc_mall",
+        "translation": "音乐唱片（C418-mall）"
+    },
+    "780": {
+        "id": 780,
+        "name": "music_disc_mellohi",
+        "translation": "音乐唱片（C418-mellohi）"
+    },
+    "781": {
+        "id": 781,
+        "name": "music_disc_stal",
+        "translation": "音乐唱片（C418-stal）"
+    },
+    "782": {
+        "id": 782,
+        "name": "music_disc_strad",
+        "translation": "音乐唱片（C418-strad）"
+    },
+    "783": {
+        "id": 783,
+        "name": "music_disc_ward",
+        "translation": "音乐唱片（C418-ward）"
+    },
+    "784": {
+        "id": 784,
+        "name": "music_disc_11",
+        "translation": "音乐唱片（C418-11）"
+    },
+    "785": {
+        "id": 785,
+        "name": "music_disc_wait",
+        "translation": "音乐唱片（C418-wait）"
+    },
+    "786": {
+        "id": 786,
+        "name": "trident",
+        "translation": "三叉戟"
+    },
+    "787": {
+        "id": 787,
+        "name": "phantom_membrane",
+        "translation": "幻翼膜"
+    },
+    "788": {
+        "id": 788,
+        "name": "nautilus_shell",
+        "translation": "鹦鹉螺壳"
+    },
+    "789": {
+        "id": 789,
+        "name": "heart_of_the_sea",
+        "translation": "海洋之心"
+    }
+}

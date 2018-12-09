@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>CustomStore</class>
+ <widget class="QMainWindow" name="CustomStore">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>563</width>
+    <height>484</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="windowTitle">
+   <string>1.13自定义木牌商店</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <layout class="QGridLayout" name="gridLayout_6">
+    <item row="0" column="0" colspan="2">
+     <layout class="QGridLayout" name="gridLayout_3">
+      <item row="0" column="3">
+       <widget class="QLineEdit" name="ScoreboardName_2">
+        <property name="text">
+         <string>wupin</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="4">
+       <widget class="QLabel" name="label_4">
+        <property name="text">
+         <string>  ↓↓↓请先执行以下指令↓↓↓  </string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="0">
+       <widget class="QLabel" name="ScoreboardName_label">
+        <property name="text">
+         <string>货币记分板名称：</string>
+        </property>
+        <property name="buddy">
+         <cstring>ScoreboardName</cstring>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="1">
+       <widget class="QLineEdit" name="ScoreboardName">
+        <property name="text">
+         <string>huobi</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="2">
+       <widget class="QLabel" name="ScoreboardName_label_2">
+        <property name="text">
+         <string>物品记分板名称：</string>
+        </property>
+        <property name="buddy">
+         <cstring>ScoreboardName_2</cstring>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item row="1" column="0" colspan="2">
+     <layout class="QGridLayout" name="gridLayout_2">
+      <item row="0" column="0">
+       <widget class="QLabel" name="label_2">
+        <property name="text">
+         <string>创建货币的计分板：</string>
+        </property>
+        <property name="buddy">
+         <cstring>cmdl1</cstring>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="1">
+       <widget class="QLineEdit" name="cmdl1">
+        <property name="font">
+         <font>
+          <family>Consolas</family>
+          <pointsize>10</pointsize>
+         </font>
+        </property>
+        <property name="readOnly">
+         <bool>true</bool>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="2">
+       <widget class="QPushButton" name="copy_2">
+        <property name="text">
+         <string>复制</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="0">
+       <widget class="QLabel" name="label_3">
+        <property name="text">
+         <string>将货币显示在玩家列表中：</string>
+        </property>
+        <property name="buddy">
+         <cstring>cmdl2</cstring>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="1">
+       <widget class="QLineEdit" name="cmdl2">
+        <property name="font">
+         <font>
+          <family>Consolas</family>
+          <pointsize>10</pointsize>
+         </font>
+        </property>
+        <property name="readOnly">
+         <bool>true</bool>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="2">
+       <widget class="QPushButton" name="copy_3">
+        <property name="text">
+         <string>复制</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="0">
+       <widget class="QLabel" name="label_5">
+        <property name="text">
+         <string>多物品出售需要创建的计分板：</string>
+        </property>
+        <property name="buddy">
+         <cstring>cmdl3</cstring>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="1">
+       <widget class="QLineEdit" name="cmdl3">
+        <property name="font">
+         <font>
+          <family>Consolas</family>
+          <pointsize>10</pointsize>
+         </font>
+        </property>
+        <property name="readOnly">
+         <bool>true</bool>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="2">
+       <widget class="QPushButton" name="copy_4">
+        <property name="text">
+         <string>复制</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item row="2" column="0" colspan="2">
+     <widget class="Line" name="line">
+      <property name="orientation">
+       <enum>Qt::Horizontal</enum>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="0">
+     <layout class="QGridLayout" name="gridLayout">
+      <item row="0" column="1" colspan="2">
+       <layout class="QHBoxLayout" name="horizontalLayout_2">
+        <item>
+         <widget class="QLineEdit" name="text1">
+          <property name="styleSheet">
+           <string notr="true"/>
+          </property>
+          <property name="text">
+           <string>$$$$$$$$$$$</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QComboBox" name="text1Color">
+          <property name="maximumSize">
+           <size>
+            <width>90</width>
+            <height>16777215</height>
+           </size>
+          </property>
+          <property name="currentText">
+           <string>aqua</string>
+          </property>
+          <item>
+           <property name="text">
+            <string>aqua</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>black</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>blue</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_blue</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_green</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_aqua</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_red</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_purple</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>gold</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>gray</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>green</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>light_purple</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>red</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>yellow</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>white</string>
+           </property>
+          </item>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="1" column="0">
+       <widget class="QLabel" name="text2_label">
+        <property name="text">
+         <string>第二行文本：</string>
+        </property>
+        <property name="buddy">
+         <cstring>text2</cstring>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="1" colspan="2">
+       <layout class="QHBoxLayout" name="horizontalLayout_3">
+        <item>
+         <widget class="QLineEdit" name="text2">
+          <property name="text">
+           <string>出售绿宝石</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QComboBox" name="text2Color">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>90</width>
+            <height>16777215</height>
+           </size>
+          </property>
+          <property name="currentText">
+           <string>aqua</string>
+          </property>
+          <item>
+           <property name="text">
+            <string>aqua</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>black</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>blue</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_blue</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_green</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_aqua</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_red</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_purple</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>gold</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>gray</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>green</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>light_purple</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>red</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>yellow</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>white</string>
+           </property>
+          </item>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="0" column="0">
+       <widget class="QLabel" name="text1_label">
+        <property name="text">
+         <string>第一行文本：</string>
+        </property>
+        <property name="buddy">
+         <cstring>text1</cstring>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="0">
+       <widget class="QLabel" name="text3_label">
+        <property name="text">
+         <string>第三行文本：</string>
+        </property>
+        <property name="buddy">
+         <cstring>text3</cstring>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="1" colspan="2">
+       <layout class="QHBoxLayout" name="horizontalLayout_4">
+        <item>
+         <widget class="QLineEdit" name="text3">
+          <property name="text">
+           <string>10元</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QComboBox" name="text3Color">
+          <property name="maximumSize">
+           <size>
+            <width>90</width>
+            <height>16777215</height>
+           </size>
+          </property>
+          <property name="currentText">
+           <string>aqua</string>
+          </property>
+          <item>
+           <property name="text">
+            <string>aqua</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>black</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>blue</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_blue</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_green</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_aqua</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_red</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_purple</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>gold</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>gray</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>green</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>light_purple</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>red</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>yellow</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>white</string>
+           </property>
+          </item>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="3" column="0">
+       <widget class="QLabel" name="text4_label">
+        <property name="text">
+         <string>第四行文本：</string>
+        </property>
+        <property name="buddy">
+         <cstring>text4</cstring>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="1">
+       <widget class="QComboBox" name="textColor">
+        <property name="currentText">
+         <string>aqua</string>
+        </property>
+        <item>
+         <property name="text">
+          <string>aqua</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>black</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>blue</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>dark_blue</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>dark_green</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>dark_aqua</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>dark_red</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>dark_purple</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>gold</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>gray</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>green</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>light_purple</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>red</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>yellow</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>white</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item row="4" column="0">
+       <widget class="QLabel" name="hintMsg_label">
+        <property name="text">
+         <string>提示文本：</string>
+        </property>
+        <property name="buddy">
+         <cstring>text4</cstring>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="2">
+       <widget class="QCheckBox" name="respectiveColor">
+        <property name="text">
+         <string>单独设置颜色</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="1" colspan="2">
+       <layout class="QHBoxLayout" name="horizontalLayout_6">
+        <item>
+         <widget class="QLineEdit" name="hintMsg">
+          <property name="text">
+           <string>交易成功</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QComboBox" name="hintColor">
+          <property name="maximumSize">
+           <size>
+            <width>90</width>
+            <height>16777215</height>
+           </size>
+          </property>
+          <property name="currentText">
+           <string>aqua</string>
+          </property>
+          <item>
+           <property name="text">
+            <string>aqua</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>black</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>blue</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_blue</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_green</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_aqua</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_red</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_purple</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>gold</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>gray</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>green</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>light_purple</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>red</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>yellow</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>white</string>
+           </property>
+          </item>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="5" column="0">
+       <widget class="QLabel" name="textColor_label">
+        <property name="text">
+         <string>文本颜色：</string>
+        </property>
+        <property name="buddy">
+         <cstring>textColor</cstring>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="1" colspan="2">
+       <layout class="QHBoxLayout" name="horizontalLayout_5">
+        <item>
+         <widget class="QLineEdit" name="text4">
+          <property name="text">
+           <string>$$$$$$$$$$$</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QComboBox" name="text4Color">
+          <property name="maximumSize">
+           <size>
+            <width>90</width>
+            <height>16777215</height>
+           </size>
+          </property>
+          <property name="currentText">
+           <string>aqua</string>
+          </property>
+          <item>
+           <property name="text">
+            <string>aqua</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>black</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>blue</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_blue</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_green</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_aqua</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_red</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>dark_purple</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>gold</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>gray</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>green</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>light_purple</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>red</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>yellow</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>white</string>
+           </property>
+          </item>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="6" column="0" colspan="3">
+       <spacer name="verticalSpacer">
+        <property name="orientation">
+         <enum>Qt::Vertical</enum>
+        </property>
+        <property name="sizeType">
+         <enum>QSizePolicy::Expanding</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>20</width>
+          <height>30</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+     </layout>
+    </item>
+    <item row="4" column="1">
+     <layout class="QVBoxLayout" name="verticalLayout_3">
+      <item>
+       <layout class="QGridLayout" name="gridLayout_4">
+        <item row="0" column="0">
+         <widget class="QLabel" name="objectName_label">
+          <property name="text">
+           <string>物品名称：</string>
+          </property>
+          <property name="buddy">
+           <cstring>objectName</cstring>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="1">
+         <layout class="QHBoxLayout" name="horizontalLayout_8">
+          <item>
+           <widget class="QLineEdit" name="objectName">
+            <property name="text">
+             <string>emerald</string>
+            </property>
+            <property name="clearButtonEnabled">
+             <bool>true</bool>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="finder">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="maximumSize">
+             <size>
+              <width>40</width>
+              <height>16777215</height>
+             </size>
+            </property>
+            <property name="text">
+             <string>查阅</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+        <item row="1" column="0">
+         <widget class="QLabel" name="objectprice_label">
+          <property name="text">
+           <string>物品价格：</string>
+          </property>
+          <property name="buddy">
+           <cstring>objectPrice</cstring>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="1">
+         <widget class="QSpinBox" name="objectPrice">
+          <property name="maximum">
+           <number>999999999</number>
+          </property>
+          <property name="value">
+           <number>10</number>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="0">
+         <widget class="QLabel" name="objectNumber_label">
+          <property name="text">
+           <string>物品数量：</string>
+          </property>
+          <property name="buddy">
+           <cstring>objectNumber</cstring>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="1">
+         <widget class="QSpinBox" name="objectNumber">
+          <property name="readOnly">
+           <bool>false</bool>
+          </property>
+          <property name="minimum">
+           <number>1</number>
+          </property>
+          <property name="maximum">
+           <number>999999999</number>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <layout class="QGridLayout" name="gridLayout_5">
+        <item row="0" column="0">
+         <widget class="QLabel" name="colorDisplay">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Fixed" vsizetype="Minimum">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>70</width>
+            <height>0</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>70</width>
+            <height>16777215</height>
+           </size>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">background-color: rgb(0, 0, 0);</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="1">
+         <layout class="QVBoxLayout" name="verticalLayout">
+          <item>
+           <layout class="QHBoxLayout" name="horizontalLayout_9">
+            <item>
+             <widget class="QCheckBox" name="customItem_checkBox">
+              <property name="text">
+               <string>使用自定义物品</string>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_7">
+              <item>
+               <spacer name="horizontalSpacer">
+                <property name="orientation">
+                 <enum>Qt::Horizontal</enum>
+                </property>
+                <property name="sizeType">
+                 <enum>QSizePolicy::Expanding</enum>
+                </property>
+                <property name="sizeHint" stdset="0">
+                 <size>
+                  <width>13</width>
+                  <height>20</height>
+                 </size>
+                </property>
+               </spacer>
+              </item>
+              <item>
+               <widget class="QPushButton" name="customItem_pushButton">
+                <property name="enabled">
+                 <bool>true</bool>
+                </property>
+                <property name="minimumSize">
+                 <size>
+                  <width>0</width>
+                  <height>0</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>40</width>
+                  <height>20</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>配置</string>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </item>
+          <item>
+           <widget class="QCheckBox" name="successHint_checkBox">
+            <property name="text">
+             <string>交易成功提示</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QCheckBox" name="compatibility_checkBox">
+            <property name="text">
+             <string>对插件服兼容</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <spacer name="verticalSpacer_2">
+        <property name="orientation">
+         <enum>Qt::Vertical</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>20</width>
+          <height>13</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+     </layout>
+    </item>
+    <item row="5" column="0" colspan="2">
+     <widget class="QTextBrowser" name="textBrowser">
+      <property name="font">
+       <font>
+        <family>Consolas</family>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+      <property name="lineWrapMode">
+       <enum>QTextEdit::NoWrap</enum>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="0" colspan="2">
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <widget class="QRadioButton" name="sale_radioButton">
+        <property name="text">
+         <string>出售物品</string>
+        </property>
+        <property name="checked">
+         <bool>true</bool>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QRadioButton" name="purchase_radioButton">
+        <property name="text">
+         <string>购买物品</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item row="6" column="0" colspan="2">
+     <widget class="QPushButton" name="copy">
+      <property name="text">
+       <string>复制</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>563</width>
+     <height>22</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <tabstops>
+  <tabstop>ScoreboardName</tabstop>
+  <tabstop>ScoreboardName_2</tabstop>
+  <tabstop>cmdl1</tabstop>
+  <tabstop>copy_2</tabstop>
+  <tabstop>cmdl2</tabstop>
+  <tabstop>copy_3</tabstop>
+  <tabstop>cmdl3</tabstop>
+  <tabstop>copy_4</tabstop>
+  <tabstop>sale_radioButton</tabstop>
+  <tabstop>purchase_radioButton</tabstop>
+  <tabstop>text1</tabstop>
+  <tabstop>text1Color</tabstop>
+  <tabstop>text2</tabstop>
+  <tabstop>text2Color</tabstop>
+  <tabstop>text3</tabstop>
+  <tabstop>text3Color</tabstop>
+  <tabstop>text4</tabstop>
+  <tabstop>text4Color</tabstop>
+  <tabstop>respectiveColor</tabstop>
+  <tabstop>objectName</tabstop>
+  <tabstop>finder</tabstop>
+  <tabstop>objectPrice</tabstop>
+  <tabstop>objectNumber</tabstop>
+  <tabstop>successHint_checkBox</tabstop>
+  <tabstop>compatibility_checkBox</tabstop>
+  <tabstop>textBrowser</tabstop>
+  <tabstop>copy</tabstop>
+ </tabstops>
+ <resources/>
+ <connections/>
+</ui>
